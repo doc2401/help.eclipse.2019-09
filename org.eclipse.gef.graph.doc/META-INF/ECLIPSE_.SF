@@ -1,0 +1,166 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: kt9GNxSSBN377Z5kxfx74fBYndMgA
+ bBMa+F81F/mPK4=
+SHA-256-Digest-Manifest: AxR8rBTY1cwDYEO53JzxRgaQgzpaz3cqI2sARYO4hWQ=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: about.properties
+SHA-256-Digest: pZxd5IRKck275GBhVW2YxLg5lGJV3HYySujbYjB41N0=
+
+Name: plugin.xml
+SHA-256-Digest: /SL3ZNkGQJkGxbVAqp04dzdzGIo/sL3AZ3E0Mmosk0U=
+
+Name: reference/api/overview-tree.html
+SHA-256-Digest: rz61VxQHqJ8+8kDJK5jFLb+kjxaZb41OEvHNcq5V22w=
+
+Name: reference/wiki/images/graph/components.graph.jpeg
+SHA-256-Digest: D2tci0mXQEO8V9+vcNrGKKxqKZTNLSXBzOxV3APv1c8=
+
+Name: reference/api/org/eclipse/gef/graph/class-use/Edge.html
+SHA-256-Digest: /wDPtzt+5ZhK8cRtsuuQE49b7YrsNu7s25Kg3UWgwNM=
+
+Name: reference/api/stylesheet.css
+SHA-256-Digest: 2L1PS26X/NJYrdCLO4FwnhQbvPjK/pepeAgDPY/Du94=
+
+Name: reference/api/org/eclipse/gef/graph/package-summary.html
+SHA-256-Digest: aBPRFvVAi8WzxCDU6gqL70kGjFeQ2Ty5TGSGKczaOpE=
+
+Name: reference/api/org/eclipse/gef/graph/class-use/Graph.Builder.Cont
+ ext.html
+SHA-256-Digest: dNbQFG/t926EuiAwJRo2uPbuuiTGnA9HfdR8EVaP1MQ=
+
+Name: reference/api/org/eclipse/gef/graph/Node.Builder.html
+SHA-256-Digest: Jq3+oDOcXjsOdeC/H8Fa1v12yCKci/DJmXNibuY99Hw=
+
+Name: book.css
+SHA-256-Digest: OrOMZcDhVRKVQeOjA7gK7OevS/gzHMHlYNqqoyLxoHo=
+
+Name: reference/api/org/eclipse/gef/graph/class-use/Node.html
+SHA-256-Digest: nt+MvUbOBhpXLa2dXMaP+ItLWLG+QFtGDIsOeUqflrY=
+
+Name: about.ini
+SHA-256-Digest: E/MFHqbh59kyPS3W18LJs3iX9hQALC2kFL2BMdlR10s=
+
+Name: reference/api/org/eclipse/gef/graph/package-frame.html
+SHA-256-Digest: KFGyYUwdxicXamotgQgGhL4l8V8jXIZ8k4Ph465SDUw=
+
+Name: reference/api/help-doc.html
+SHA-256-Digest: w+R1mtYVYbDtwn0RrouZ9CecW/eEJvSNgzGPGJ95CVQ=
+
+Name: reference/api/index-files/index-6.html
+SHA-256-Digest: TlDXkcv6dH3Q0VokhUwhTxbWmMLvkUSJmPV9+kysAQc=
+
+Name: reference/api/script.js
+SHA-256-Digest: KhEzeKXrCxzdCqX8cPdclh/J0LxUx0tmkOQtBGzkPj0=
+
+Name: reference/api/org/eclipse/gef/graph/Node.html
+SHA-256-Digest: pgxCOgatm7QuqQK85iCLSFKH8k1BCGA232zpTPTGITU=
+
+Name: reference/api/org/eclipse/gef/graph/class-use/GraphCopier.html
+SHA-256-Digest: rpxiQHQgGzsskF+m2ZJy//kK2ivFH/7ajkIPHlbmSuU=
+
+Name: reference/api/org/eclipse/gef/graph/Graph.html
+SHA-256-Digest: aPjnT5HwXYm1oROuITwX5pYs1STWfb5FWrbzFPMvGpA=
+
+Name: reference/wiki/images/graph/GEF-Graph-graph.png
+SHA-256-Digest: 6r3iHZg84EFHO/jOaI1eR383X9ibhXLFm9nm7/E2D4o=
+
+Name: reference/api/org/eclipse/gef/graph/package-use.html
+SHA-256-Digest: dU5Tnlf90Psj1Rsr9JBFLO66EJOQZRxfqRx1KycFhko=
+
+Name: reference/api/org/eclipse/gef/graph/Graph.Builder.html
+SHA-256-Digest: +JVRrTtiawTQ7Da+7JWbLh11g4t4u1fN0iuluJqcS/I=
+
+Name: reference/wiki/Graph-toc.xml
+SHA-256-Digest: idUb8jfdK8IVW4qPjp8y3Xb8qw4JFe4wkhI6WCSGcK0=
+
+Name: reference/api/index-files/index-5.html
+SHA-256-Digest: cn4yBbQXpWCTr9pIkIxNc0PHaGk91o9Nh57p4WinGTk=
+
+Name: reference/api/index-files/index-8.html
+SHA-256-Digest: og9ByTC5YDJMkQmM4rcV5GtbuEW3f8jfefUX1PFqxAU=
+
+Name: reference/api/org/eclipse/gef/graph/class-use/Graph.html
+SHA-256-Digest: jiRnLbulgYTm1NCGR2n91F1jdQDHJYVk4fXUL1Zm0Hk=
+
+Name: toc.xml
+SHA-256-Digest: Y6BiDKlkGuuNO8sf8AuQ8+tRZAf+DHNlyhqKh0Bcg2Y=
+
+Name: reference/api/org/eclipse/gef/graph/package-tree.html
+SHA-256-Digest: pkqivDqMyH7yUS0FdQ89AvY2KowM3R8CJw8cCpej1ig=
+
+Name: reference/api/allclasses-frame.html
+SHA-256-Digest: TocNfwwV4jSQ7rsg4F9pbsCpKJcWfgHDwwmUD5IGfdc=
+
+Name: reference/api/constant-values.html
+SHA-256-Digest: XIAjV6ugSfaezcLMeRzaZ7kXcwQkNwWogjlZyG+ugT0=
+
+Name: reference/api/allclasses-noframe.html
+SHA-256-Digest: A3QqvXDIXUj8fv4a3s9CssmbCTMe0j3kwGJSTVs6hNY=
+
+Name: reference/api/index.html
+SHA-256-Digest: zqaDcMH9yphZLcrHVIOq0YG0ymr8b/RXdyXmM8CkODs=
+
+Name: reference/api/index-files/index-2.html
+SHA-256-Digest: YfUjtyNM+qXoDbiVx0htqi1y+XZEZLMNMbvry96OcX8=
+
+Name: about.mappings
+SHA-256-Digest: XjIK8Yf4A5dVBTTbXXwbgfTgVUXgK2JDSX9VdQ6C8KE=
+
+Name: reference/api/org/eclipse/gef/graph/class-use/Node.Builder.html
+SHA-256-Digest: 5zla+JtQFNllHFm/AvpRHoaQe/hrfzzAi38TD1YHXqQ=
+
+Name: reference/api/index-files/index-9.html
+SHA-256-Digest: 41qoEqrMJRuXgWt3skrxcVru3Hm6BCSsX/japH3lYGs=
+
+Name: reference/wiki/Graph.html
+SHA-256-Digest: 873AhtAjsNeMQncl+XJuGmD22tewG32QS0mZNFC0IJ4=
+
+Name: reference/api/index-files/index-3.html
+SHA-256-Digest: 2aiRlzrfoLKXjJDQo6NKh4GrJTvLjqFjD7+Oi9vAJXE=
+
+Name: gef_eclipse_logo_32.png
+SHA-256-Digest: WykbvOFTwNbTmEpZas68B9kphT3sHwiiR5hXPtTVxqQ=
+
+Name: reference/api/org/eclipse/gef/graph/GraphCopier.html
+SHA-256-Digest: 7v/A7sWfHyX7PtU2Z/VsrHbWhlahVmzN/xPyskSw1h4=
+
+Name: reference/api/deprecated-list.html
+SHA-256-Digest: AGFwaH1LNKTtjn1ZYwOsQKhg0YraJiG3gmtcHzWUz6Q=
+
+Name: reference/api/index-files/index-7.html
+SHA-256-Digest: rIV0WXvLvK/v4NtVpWSrs1Z4ZjKm4fxAI3mce7iaswc=
+
+Name: about.html
+SHA-256-Digest: XIAW3iP7OQU3Woo0skVEm9BKSc2o6t+OCZxcDCq/f0k=
+
+Name: reference/api/package-list
+SHA-256-Digest: 7EXDcuNP0NtW+rUrLygeFI2BJs3tz5x0xgB+hNM2oso=
+
+Name: reference/api/org/eclipse/gef/graph/class-use/Edge.Builder.html
+SHA-256-Digest: jM7wf5TOv1AlRHY5PwIoZQcpVb8aj1T8p5/Ilb3BSTs=
+
+Name: reference/api/index-files/index-1.html
+SHA-256-Digest: bu133t/JLWcYGxUdyppUVkLWiwSluxTMnCSmAfFIIuI=
+
+Name: reference/api/index-files/index-4.html
+SHA-256-Digest: kSekUjxyNfTv5zIdhgVpByOtHPdRkv6AYzg7wAydUHc=
+
+Name: reference/api/org/eclipse/gef/graph/Edge.html
+SHA-256-Digest: xx2r6ShAT4H4yOgD8HaWu/Xvh7L6NyllpesNB9JXieI=
+
+Name: reference/api/org/eclipse/gef/graph/class-use/Graph.Builder.html
+SHA-256-Digest: xrbbir7OOrTBUfKhdjCbBFnQ5Wtpgb6Mt0OGZLNeMqo=
+
+Name: reference/api/org/eclipse/gef/graph/Edge.Builder.html
+SHA-256-Digest: n4zlee8nRvNuyF2hVWkGzgbNKamT9sa6Z8TFbF/Y3R8=
+
+Name: reference/api/index-files/index-10.html
+SHA-256-Digest: l9YdEiqw1sHrTpcJu/WPXCt5x6d2AlPpj4SF3du2Q6A=
+
+Name: reference/wiki/images/graph/GEFGraph-model.png
+SHA-256-Digest: MTlMvOP3jK3BVSk5bQkjoy5kakqqIaNW0SMZc5Mh/7g=
+
+Name: reference/api/org/eclipse/gef/graph/Graph.Builder.Context.html
+SHA-256-Digest: fmQ2TjnprmjkTb0xAgN6BLZ2ONZdh1MzHKcmVjZB5yo=
+

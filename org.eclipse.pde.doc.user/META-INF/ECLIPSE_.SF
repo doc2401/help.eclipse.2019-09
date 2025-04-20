@@ -1,0 +1,3127 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: v+KfczM5R93W8PUqlJDKO0+CGnO/H
+ AZIbI+b/k3JPEk=
+SHA-256-Digest-Manifest: z+yiM6gKd1l7Pbjju3YkqR9s/mesKxF7C/3Tz0yK5z4=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: guide/images/plugin_editor/dependencies_analysis.png
+SHA-256-Digest: YlGR3Z/nm1BJAzgp8MTNV3tALzIU9uhwwKx1DeDUpfw=
+
+Name: guide/images/simple_cs_editor/section_sub-step_view.png
+SHA-256-Digest: iH7XJYsJ4BqfhgIfztK7S376KavwXA6wNea4jXVZbsA=
+
+Name: reference/misc/api-usage-rules.html
+SHA-256-Digest: yGa6ffaNk59Pnviwbnph462CpOHMH45YPfLcnkaL8xU=
+
+Name: reference/api/org/eclipse/pde/core/package-use.html
+SHA-256-Digest: Rojqcr+HG1G6wv/q73yhb0oDGldhaDWOHzWiRgT98lY=
+
+Name: reference/api/org/eclipse/pde/api/tools/annotations/NoImplement.
+ html
+SHA-256-Digest: U74IvAphrX0gHddiWip+T7kg7utYIDKC1JFfcGAuo2g=
+
+Name: guide/images/new_wizards/site.PNG
+SHA-256-Digest: OOokJmLpkIRDnU87E2rLs31yLqL5HXfs8ZCMC0i4YR4=
+
+Name: guide/images/schema_editor/section_element-details_1.png
+SHA-256-Digest: d5SNBcIouCWcwX6U3gzIpSyRC/V/jBjrkwL/bS52sNs=
+
+Name: guide/tools/views/target_platform_state.htm
+SHA-256-Digest: HFVxiMCGg+/xGcgfi9VwFMKw95kmuc/JoqwDjAjdQKA=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/TemplateFie
+ ld.html
+SHA-256-Digest: YDurO5+d1x8IxM845nhA6Ah2GbhdxtS9c96ploEHN7M=
+
+Name: guide/tools/preference_pages/compilers.htm
+SHA-256-Digest: 0ih1BZcqhHCOHS2zA587uuy9qZEm8sHk83AffvUrzNc=
+
+Name: guide/images/product_editor/configuration_features.PNG
+SHA-256-Digest: In4mz3c06shovs9ov2PMz/0ZJe+Lu3jeIjwxHrkLAHI=
+
+Name: tasks/pde_p2_builds.htm
+SHA-256-Digest: GTSaGarD4FxGslQiR8OjsKxy2PSFN/31cNVlAa+8ASs=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginAttri
+ bute.html
+SHA-256-Digest: ODFoQe4t6/NdaCyXsJqfwBT3cZe1Ig+jaut9TaEDFsg=
+
+Name: guide/images/launchers/launcher_equinox_settings.png
+SHA-256-Digest: gemAeZTkIdZXyTuCWEru0MaC3daOZUj3yjHAnQ08Sjk=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/BundlesTab.html
+SHA-256-Digest: Rmg/MTnod1EExCd9u7kXaUSXBT3Cez/bq+6WZUZKKG8=
+
+Name: tasks/api_tooling_options.htm
+SHA-256-Digest: iEPqblLuhtHxp6bKDoFxjtmrBciZJXbHbGlGfFYO6Nw=
+
+Name: guide/images/new_wizards/plugin_content.PNG
+SHA-256-Digest: NqPrGUYYaTjUPv4FoQL4XunXwSODqKn/0bYZh/l7vh8=
+
+Name: guide/images/product_editor/branding_window.png
+SHA-256-Digest: Bk4ir8BOQF5f07vDwJvtgJVmUWvHeF7nCQYlZRATzaA=
+
+Name: guide/tools/launchers/plugins.htm
+SHA-256-Digest: ugRskQKytQ2ZyS1NVPYsstYoOIR5OAjJXB2X04f+2MI=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/AbstractPDEL
+ aunchConfiguration.html
+SHA-256-Digest: +W+gat9t1MKkw5T+UR0SuzdgPCjo4Z/YExtCYaaEUkQ=
+
+Name: guide/images/plugin_editor/dependencies_required.png
+SHA-256-Digest: qZpzHmxln3xQcVaV7SpV6uXYI/8wsWDDehpGXw58bZY=
+
+Name: guide/images/launchers/launcher_junit_test.png
+SHA-256-Digest: QYxvtCAxJ3hGswqSGZ+1jp1sp17RjApvB2kegzH+V90=
+
+Name: guide/images/plugin_editor/runtime.png
+SHA-256-Digest: EMaqaSb2/L+OFS6obqqBdPOyNBbQGy8NcsnsOSuM8yg=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/AbstractLauncherTab.ht
+ ml
+SHA-256-Digest: v4wRoplGby03ccx3dIYU/kBu9vinp6euJVecHokvH0E=
+
+Name: guide/images/schema_editor/section_element-reference-details.png
+SHA-256-Digest: D0+EeVyqLR9X6vHr8f61ysoWgUmxg4knfTTp/IWC6YU=
+
+Name: reference/api/org/eclipse/pde/ui/package-summary.html
+SHA-256-Digest: u67YENj4hExZtgXmHKl/QNPXw0IC9AvrwInRKjDjW1o=
+
+Name: reference/api-tooling/ant-tasks/analysis-reportconversion-ant-ta
+ sk.htm
+SHA-256-Digest: +N4rxUfIck0a23JaNjqRoRsDHYj6+yYFdU+EkXYkvHk=
+
+Name: reference/api/org/eclipse/pde/core/IEditable.html
+SHA-256-Digest: w45F+wIVtkNDN4XRfYS0NcPMjtLYWQjzI1fgYEU8Z/M=
+
+Name: guide/images/new_wizards/new_wizards_projects.png
+SHA-256-Digest: 6zG6LzEzFjiooIKBzzK2kPBShf0KPSLSn7LDw8JHb8c=
+
+Name: guide/images/new_wizards/feature_patch.PNG
+SHA-256-Digest: tdPtCK5wAV898MPkgwGc9d8NHJJS2D3UOc9Jpd2EY68=
+
+Name: reference/api/org/eclipse/pde/core/target/class-use/TargetFeatur
+ e.html
+SHA-256-Digest: 6L1s5uoD/RJGAYOwWQ76Rrk60SJCznyfUBzPR/warPo=
+
+Name: guide/images/tasks/import-from-active.png
+SHA-256-Digest: 9Z8pGEcF2RqgwPMGQvf04O72i9QV1BD3Fzu/87+5rMw=
+
+Name: reference/api/org/eclipse/pde/launching/EquinoxLaunchConfigurati
+ on.html
+SHA-256-Digest: DgggE763f3iJTkYrjMxvQG+A7gDmjr1Obpc6nXllFoA=
+
+Name: guide/tools/project_wizards/fragment_structure.htm
+SHA-256-Digest: +y6NgP1a96FpZmXVtqJPTjtHvIZTmAgEfet+po03WfI=
+
+Name: guide/tools/launchers/arguments.htm
+SHA-256-Digest: tCN3xMcs2pLRqh0iwJVWMB6IrHSGajwSmnlMYk7HYHo=
+
+Name: guide/images/plugin_editor/internal.svg
+SHA-256-Digest: ouqtQWDauZw6JoNUyuJGqRNFQvmLdVWhl3r0XQPoopU=
+
+Name: guide/images/simple_cs_editor/section_help_details_none.png
+SHA-256-Digest: nDMXIi9vCTb+nbyaU/JUVheOPA+tar37g7bCRA6nDJU=
+
+Name: guide/images/target_shared/move_target_wizard.png
+SHA-256-Digest: JxHBUn4ClQiEemJk2gPJGHOinlM7A59Fn50/3zQolKE=
+
+Name: reference/api/org/eclipse/pde/core/target/package-use.html
+SHA-256-Digest: n0QCQsZkVnPm0OvuOzIHN2yOWXeT9C5ppuyZH4fFGEk=
+
+Name: reference/api-tooling/images/api_tooling.png
+SHA-256-Digest: Vojy+kvuqug87PCNSzr0YGttxSHGDY5P0xqJJi4wrH4=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/AbstractPDELaunchConfi
+ guration.html
+SHA-256-Digest: pN11Tvb8SkWI3TwkHK6kpJcA8hoo8/+/7T7s9FrpZns=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IExtensionsM
+ odelFactory.html
+SHA-256-Digest: 7PCd7z/dwFJXbr1JSq++Dn4Xp29dtUNjJynJhbkdHZY=
+
+Name: reference/api/org/eclipse/pde/core/project/class-use/IRequiredBu
+ ndleDescription.html
+SHA-256-Digest: Qx5HQMflJrYvZaK9rsMk1iulIdRys665tNh4dZMZ+/4=
+
+Name: reference/api/org/eclipse/pde/ui/IBasePluginWizard.html
+SHA-256-Digest: 18D9narWkGYPVk26IztMWL3dFWgs4Wmx6+t78wa/0mM=
+
+Name: guide/images/plugin_editor/dependencies_imported.png
+SHA-256-Digest: mNI+qP7cojNSXIsp5+u+6Cg6bpFGTwmy9ZATkKPjz3g=
+
+Name: reference/api/index-files/index-3.html
+SHA-256-Digest: 06m0qcOLEV8QuCQlAYa6V3uavQ6cmB1T45BXvv370Og=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/EquinoxSettingsTab.htm
+ l
+SHA-256-Digest: Yav95PBk3Kk1/zvLTU7Gn+fZQHuyEt3PjMsGGAcg7K4=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPlugin.html
+SHA-256-Digest: /qJkElc+UkjJdmbhC4asPUClciws72ELc57f8Aiv0Ic=
+
+Name: tips/images/pde-disable-analysis-builder.png
+SHA-256-Digest: M+qXTKEjy8UBzxIi+NB0PVi0uDFSgtrGTKQ8S5O/K0k=
+
+Name: reference/api/org/eclipse/pde/core/IModelProvider.html
+SHA-256-Digest: aTnQtnbScU5l3LIJwq6hfk6VnXxJcRovSV+UFc5hj2c=
+
+Name: reference/api/org/eclipse/pde/ui/target/ITargetLocationUpdater.h
+ tml
+SHA-256-Digest: otVq01ZQZPtE+iQf3Tm66U0a17CbuUiR06DXEgtTV24=
+
+Name: guide/tools/launchers/eclipse_main.htm
+SHA-256-Digest: fz2GXDQmgVkt5061XzMO5hxdMN+34FkOFHMKQi6KaYU=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/PluginsTab.h
+ tml
+SHA-256-Digest: Iwm7U46trUP4JnJl5BPRKVO3nOe1rUscHB6r6ZtJDro=
+
+Name: reference/api/jquery/images/ui-bg_glass_65_ffffff_1x400.png
+SHA-256-Digest: uAQ0fyZPRc28vob/AfXn9OwOPm0vKaYDaG1DcAXun6E=
+
+Name: guide/images/plugin_editor/runtime_classpath.png
+SHA-256-Digest: FooDPTpkrOOr/vrepaAKy65f3qOTtfO7x0ipljfZpbc=
+
+Name: guide/images/views/plugin_1.png
+SHA-256-Digest: qiygUCEvDzepoN+sUz4dEhmx261fJiRs3d6sCyBQ+cg=
+
+Name: reference/api/org/eclipse/pde/core/IWritable.html
+SHA-256-Digest: ypwVFk/zK5gatOM9keQ6OffBDQQTfJxyGfIQnETXKgg=
+
+Name: guide/images/new_wizards/product.PNG
+SHA-256-Digest: 40BQnkih5NOL06z7S503jtQv5eV9owhX2CpMLsOaNT0=
+
+Name: reference/extension-points/org_eclipse_ui_trace_traceComponents.
+ html
+SHA-256-Digest: 806YWl4QBWdWPDE/iz260NzQkUhFWPvo0hCCM6d2+T4=
+
+Name: guide/images/new_wizards/plugin_customize.PNG
+SHA-256-Digest: l46jfouP3JUKaeo+y5sccX2m77ETuse4NYf1nRCgpB8=
+
+Name: reference/api/org/eclipse/pde/core/target/class-use/ITargetHandl
+ e.html
+SHA-256-Digest: z3+rck9TUnD+8iGq6yHNX40xHn9wrb8jl1qvwdkbikM=
+
+Name: guide/tools/editors/composite_cs_editor/page_cheat-sheet.htm
+SHA-256-Digest: LOzYQH7mua1V5dV/pBHXSOLPPGsobEzO0kbYy2XqkrA=
+
+Name: reference/api/org/eclipse/pde/core/build/package-use.html
+SHA-256-Digest: TJfppsjj1EWZ3pfP3fvyZO//n0fjOfvbiJe4a//Ax+A=
+
+Name: concepts/extension.htm
+SHA-256-Digest: qUDEKEUM9znJsd8/VFEu+1m3EsStRtCq8wHSklvJJqs=
+
+Name: reference/api/org/eclipse/pde/launching/class-use/IPDELauncherCo
+ nstants.html
+SHA-256-Digest: rvdxA5e7fdDFvV6N1jqyYroqRgq6pBXNtl8jMZQzvw0=
+
+Name: guide/images/launchers/launcher_eclipse_tracing.png
+SHA-256-Digest: hl9ajb64kVGPBayZEsnThnV7Is5/pLnXKKTqlnHu8S0=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/OSGiLaunchConfiguratio
+ nInitializer.html
+SHA-256-Digest: SFGfOcWTZccpEiNz7ybE7d8VNWTSLRSwNrn1T0Djqkc=
+
+Name: reference/api-tooling/propertypages/ref-filters-prop.htm
+SHA-256-Digest: ZAaYSlqA8lK2Qpvinh+Xl5HGYIsAOUeB2bHsN4ksFtI=
+
+Name: guide/images/export_wizards/options_plugins.png
+SHA-256-Digest: pQ1JokeSdOTghLOcuzbHRYOnZILzE/zhxD+4jloRouk=
+
+Name: reference/extension-points/org_eclipse_pde_core_pluginClasspathC
+ ontributors.html
+SHA-256-Digest: ayBVyQFkyorIcLjiHDx6XlNYa7F3TFJjlhXlHvnrMZY=
+
+Name: reference/api/jquery/images/ui-bg_flat_75_ffffff_40x100.png
+SHA-256-Digest: TVvrgn3jI72T3/Y93PWG968YROeGocOdXzQ1U5liwvk=
+
+Name: reference/api/jquery/jquery-ui.structure.min.css
+SHA-256-Digest: Cz25ygvktv6g9PeUwlBC+VdC9gvCxhq//HfU0iTUTUY=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IExtensionsModel.html
+SHA-256-Digest: uqzJevMRGROz1FOgu71oqbFSHrDSrttIpZF4VqBWdhs=
+
+Name: reference/api/org/eclipse/pde/ui/class-use/IProvisionerWizard.ht
+ ml
+SHA-256-Digest: mAOhuFRt7aLKE3JMLQPpt12wOmoxOMdRxdAdkhfZE2A=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/TracingTab.h
+ tml
+SHA-256-Digest: iAGfDSS3A0i01nR9/zfxGEyyVTYfhCuEbh4mivxVdOY=
+
+Name: reference/api-tooling/images/api-use-pattern-wizard-archive-page
+ .png
+SHA-256-Digest: EOn69rbA1A8pNQNvcH/pl85XlQAXeoLVWZocKGkKs7g=
+
+Name: reference/api/org/eclipse/pde/core/build/package-summary.html
+SHA-256-Digest: rvmKWkuuNZNFrhYdt/rGJkviAk9ecAWPQNAuO+JwPgI=
+
+Name: reference/api/org/eclipse/pde/api/tools/annotations/NoOverride.h
+ tml
+SHA-256-Digest: Tr0UaStklFVhd6FAdUEBbf5HaGNugheru95LwnHQTxA=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/NewPluginPr
+ ojectFromTemplateWizard.html
+SHA-256-Digest: vHjxOZTxLtBP9WKAzwz8ixs9vkQPpRSXDlIYvRuoxUM=
+
+Name: guide/images/schema_editor/section_description.png
+SHA-256-Digest: kq7bltm3MxqhOXHPaeulg3iA90EP0juUcTyfn7ntUts=
+
+Name: reference/api/org/eclipse/pde/core/project/class-use/IBundleProj
+ ectDescription.html
+SHA-256-Digest: xaiHQC7oZPMuWabSuPkFBMJB2uUXQppzkdpQZQ/F2Y0=
+
+Name: reference/api-tooling/images/error_ovr.gif
+SHA-256-Digest: 0dCf76lHKcmMRj7N95IoiO3zz+gAsCMNttmb2pk4urM=
+
+Name: reference/api/org/eclipse/pde/core/build/IBuild.html
+SHA-256-Digest: 9rU8XmONHAjF7O1/+Gt+5i5S6cmp/6UKAhD6qxFU8to=
+
+Name: index/_1_Lucene50_0.pos
+SHA-256-Digest: sIoNRoQr2mDABlz5f5JZwAFVQZzOsb8wdAIyAwA5g78=
+
+Name: reference/api/org/eclipse/pde/ui/templates/AbstractNewPluginTemp
+ lateWizard.html
+SHA-256-Digest: X7Add7xixUKfGZn4MPBfw9FHJrWPiCTvE5R5dh70oNE=
+
+Name: reference/api-tooling/images/errorwarning-prop-page.png
+SHA-256-Digest: DrhuBCTD3uaaUYh+t1s/Q7LjIvGAQrBLqC+4s9Uv28k=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/PluginRegist
+ ry.PluginFilter.html
+SHA-256-Digest: DYLQ+L3C9uUqI7bR6mIfjNL78lyQgpOjPPmmNp/CU3Y=
+
+Name: reference/api/org/eclipse/pde/core/plugin/PluginRegistry.PluginF
+ ilter.html
+SHA-256-Digest: KzvCN3d0DpL0t0sbHRn2+UsjeFo1935vFjJQDP3HRFM=
+
+Name: guide/images/toc_editor/link_details.png
+SHA-256-Digest: xqbiR+saQ/QHfILFnKeLmitfSHyySXvq6Uusso1BigE=
+
+Name: tips/images/pde_show_command_line.png
+SHA-256-Digest: KulO7kR7SXMeb8/1QzKAS+t2/UdGB7qd52z2j2kLtBA=
+
+Name: reference/api/org/eclipse/pde/core/project/IBundleProjectService
+ .html
+SHA-256-Digest: 8vY3XzYv0QSaVjFXD4QFQ2IwFz82ean/xM9OfMGhLUY=
+
+Name: concepts/target.htm
+SHA-256-Digest: l9nNGMl3VS1N0Z8iwLV84vPOCBbmWwjxYobRr1ib6Gg=
+
+Name: reference/api/org/eclipse/pde/ui/class-use/IPluginFieldData.html
+SHA-256-Digest: KMkQLrc6dEyG1Qxz9GhKHij0vwbeVIJo7i9dnRGKWuU=
+
+Name: guide/images/new_wizards/site_explorer.PNG
+SHA-256-Digest: 1FWKQDfzpuBAiViCKb2t8HvV3ZtKiAPTHYOhmP8Bhrs=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginModel
+ Factory.html
+SHA-256-Digest: fsZF8ZUHdErK30G4eIFlUuA40fljPRgCxjCtqr/zrXI=
+
+Name: guide/tools/launchers/tracing.htm
+SHA-256-Digest: N7T4VRmpoijszu8s7vnsemyT8Fmlz7wyX2bg8ElFhto=
+
+Name: guide/images/new_wizards/feature2.PNG
+SHA-256-Digest: 9FNB2vGWPXhpauLnTA5MFpXi0CK0JFEKJD+7LDKkttM=
+
+Name: reference/api/org/eclipse/pde/core/target/class-use/TargetEvents
+ .html
+SHA-256-Digest: KZfmoarxxvBkA/l4TRu6xFZCrGyWy/w6CamqxGrrgac=
+
+Name: guide/tools/file_wizards/new_toc.htm
+SHA-256-Digest: WxgjuR+RWYwrRiwJGeBFtCKUrc2mllwo1EBQRCtOJB0=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/TemplateOpt
+ ion.html
+SHA-256-Digest: W2SVxOpwoaGE0jnQGklXjU4cBLF/uuUhPwEWJzLp8jo=
+
+Name: reference/api/index-files/index-16.html
+SHA-256-Digest: 5As8Ajr6YdYIpxrbTF16/EB1mPP7xjifheozIC5GVy0=
+
+Name: guide/images/product_editor/configuration_file.png
+SHA-256-Digest: wHoUGNxHyNQdT4jCJxGSe73ahBkXKW3twbMKPCFm4Z4=
+
+Name: reference/api/org/eclipse/pde/ui/templates/AbstractChoiceOption.
+ html
+SHA-256-Digest: Y4Bggg1UIZKYLo1Syqor/vqpPY2/SBcXfpSVqC/imZY=
+
+Name: guide/images/feature_editor/information_description.png
+SHA-256-Digest: /UQ7Y6qKaYRHFGvKunreO7mj3VnFGHhuM52ZkN2JMII=
+
+Name: guide/images/launchers/launcher_eclipse_plugins.png
+SHA-256-Digest: jdUoLbrB6WX3WC4cO5mhWrvOl+XLdPQqUnkDxdSl9lg=
+
+Name: guide/tools/pde_actions/task_wizards.htm
+SHA-256-Digest: zl3UTJPupyL8OaELvz0xHNZ4+mz0VOzbD/82JOWJ/ck=
+
+Name: reference/api/org/eclipse/pde/build/class-use/Constants.html
+SHA-256-Digest: zbrV8i6A0bl8h4JysDcBMnOTLWHljFabcUA/H8Yz9nw=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/EclipseLauncherTabGrou
+ p.html
+SHA-256-Digest: HGBSUZaLFYzAtvFG0PDwzLz5qIDvEUBGtkgkH9yP7WA=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IModelChangedEvent.
+ html
+SHA-256-Digest: DsbvKXx2FtQi7p51MeK6bKZxqMX02tm0qwkZIdPQwpE=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IWritable.html
+SHA-256-Digest: kdbLunpFpNyxnL1Di6XpS62ll2d7JI4RDp8PwuWk0bo=
+
+Name: guide/images/plugin_editor/overview_execution.png
+SHA-256-Digest: /befxYApGeia4UeAiNX96FRuy2DNXYTH+ZS4yfIpYOc=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IFragmentMod
+ el.html
+SHA-256-Digest: 9KmJaYoe2+m5hibGywmynf2iTORICUp5gLbwLjYM4C0=
+
+Name: reference/api/org/eclipse/pde/ui/class-use/IExtensionWizard.html
+SHA-256-Digest: DQPbpqJHet5ee1k78hIhvmMIaUa+rxQ8oY5Bl/y+Xbs=
+
+Name: guide/images/tasks/api_filter_properties.png
+SHA-256-Digest: +s7QqhaYZqKMMZg5WzoNkIB53m8AVKg/BJXmyrLp/90=
+
+Name: reference/api/org/eclipse/pde/core/target/class-use/ITargetPlatf
+ ormService.html
+SHA-256-Digest: yxurkVZDNUFMABAoxg4lKv7VNPhzDi/dAj5evY2XasA=
+
+Name: reference/api-tooling/quickfixes/ref-api-api-filter-qf.htm
+SHA-256-Digest: wHQBQ4rYHtw3mmc6w7zo/aK2zPgJdGDXkTu8N8ythBY=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginLibra
+ ry.html
+SHA-256-Digest: 2r+chz9eOgTpGAkFkPWnPmU58S+1FAJnrTaQrhOEZIg=
+
+Name: reference/api/org/eclipse/pde/api/tools/annotations/class-use/No
+ Extend.html
+SHA-256-Digest: TOLtXZ4ceSQ4fxwSKDotxgn3uSmWuICelpxIKPI0Xv4=
+
+Name: guide/images/toc_editor/book_details.png
+SHA-256-Digest: jKCpG/EeZURkPV6V0ZEUwbHdygReTdYBhmgtUUWB1lY=
+
+Name: reference/api/org/eclipse/pde/core/IBaseModel.html
+SHA-256-Digest: uq7/JRPdfdFaqA5CKifkZXt5CYfAMzfClRljXXfyfQQ=
+
+Name: guide/tools/target_shared/import_arguments_dialog.htm
+SHA-256-Digest: /aiju+S+KQ1a57+gMPZErsiWm578eFdN9ocKBuNp8/I=
+
+Name: reference/api/org/eclipse/pde/api/tools/annotations/NoExtend.htm
+ l
+SHA-256-Digest: IP0MBkhoHWyju7OEEKlpMzpwyxF/RaX5WdHgZkqJJ0Y=
+
+Name: guide/images/simple_cs_editor/page_cheat-sheet_header.png
+SHA-256-Digest: URdwpDsZL12uIEWC6MskJi9o3Vz6ETZMJHGpfX7lAoo=
+
+Name: reference/api/org/eclipse/pde/launching/OSGiLaunchConfigurationI
+ nitializer.html
+SHA-256-Digest: +pKDRRw205s8rMPhK8sm+djEE2PALFVmnurnZPymHfQ=
+
+Name: concepts/plugin.htm
+SHA-256-Digest: 9K+M20SVuagIvdrX2/fC7Hx8I0euOJwbfdRyiXi1Duk=
+
+Name: reference/api/package-search-index.zip
+SHA-256-Digest: qVzWjCsJOv0//hvNqLx0uAmpzkZZ1y5nIGQ5oBjdvGI=
+
+Name: reference/api-tooling/images/api_options_usage.png
+SHA-256-Digest: R1Lhi4JcFQJ2LPxVtEVUa9qY7o1nYVRsRRnDYOr8IRA=
+
+Name: reference/api-tooling/wizards/ref-api-compare-wizard.htm
+SHA-256-Digest: 8JUozCVqeUE673wJ3buT5sDxEsDYv6h9soikZBEc/io=
+
+Name: reference/api/org/eclipse/pde/launching/class-use/JUnitLaunchCon
+ figurationDelegate.html
+SHA-256-Digest: Wa5Qkqj7xhoWSYr7jpZA9/J22YjRNZS04oa78JXg6Wc=
+
+Name: guide/images/pde_actions/externalize_strings_selection.png
+SHA-256-Digest: wgeY4DeywRaM0Ofmtwhv8VCNSX+z6U/BSbQIAmvP1Sg=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/OSGiLaunchSh
+ ortcut.html
+SHA-256-Digest: HGUeXF6bc+LtwrABuUzNVwBupeHjKzOL5FSaDInbpoE=
+
+Name: guide/images/views/plugin_dependencies_hierarchical_callers.png
+SHA-256-Digest: bxXO1BHpUMjCoWFW3aUIW02G4rC7JkFn2p3axhhzKOM=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/OSGiLaunchConfiguratio
+ nDelegate.html
+SHA-256-Digest: j+sUbomRWtBqhGtT73+BAJr7hxoNGGCTCy0C3dAziTo=
+
+Name: reference/api/org/eclipse/pde/launching/JUnitLaunchConfiguration
+ Delegate.html
+SHA-256-Digest: PiRz5lOiYiCkEyXRFOBG8BGfZlDfPW0Ptty0qS2DUv8=
+
+Name: reference/api/type-search-index.js
+SHA-256-Digest: TokpgBE8wI3Y8gDyLQ4PjhgplsaEpQRpugJf2GacvSs=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginAttribute.html
+SHA-256-Digest: /x6gGg6KhK5b4i4b0GuTApG3pgyUIYCMAni+GJMgK1M=
+
+Name: reference/api/org/eclipse/pde/ui/package-use.html
+SHA-256-Digest: zkLxOhq3tSCr5VUiAqAg82VDA562kbx4lIArdWXz7rY=
+
+Name: guide/images/toc_editor/toc_anchor_obj.svg
+SHA-256-Digest: iXOafXqEChFaG0j3g0+oERLBHd+TIPudzc8eJ0a5JNw=
+
+Name: guide/tools/editors/feature_editor/plugins.htm
+SHA-256-Digest: BPw5osKI8ZVR/okZoIGTzg+ty3ATC/+CJbtYpu05Aww=
+
+Name: guide/tools/preference_pages/osgi_frameworks.htm
+SHA-256-Digest: pk6arsu2ixbEFOb6scePhd2XPEKaZO1hbWb0HOKxJ8I=
+
+Name: reference/api/jquery/jquery-ui.structure.css
+SHA-256-Digest: vt+4PiaZUrf5zXScWv2R532ZKMQp3vnTgpb6f+CrnzY=
+
+Name: guide/images/simple_cs_editor/dialog_composer_details_1.png
+SHA-256-Digest: YX+Hwt7nrquWrtxutotyApQtOmwbNYRp7fLiGqm9ekk=
+
+Name: guide/images/target_shared/location_add_application.png
+SHA-256-Digest: u144RTh38jDxCzLn9bXeP8193Ms61P6i3iupU5HMy7w=
+
+Name: tasks/pde_p2_configuringproducts.htm
+SHA-256-Digest: /n44jt7+DbqOGG7Xf1RM8JH+3j8uKeynvOTJDzOs7/M=
+
+Name: guide/images/new_wizards/wizard_new_cheat-sheet.png
+SHA-256-Digest: apRm3vb9nYHdqaAx5dDfSxdK+qqD6y8ur/eq+tbk5g4=
+
+Name: guide/images/composite_cs_editor/section_enclosing-text.png
+SHA-256-Digest: Xwn5+DXcEtJ8NFlQ8ojXDYTWfRHBktbmaEQrTWiIHUg=
+
+Name: guide/images/product_editor/configuration_plugins.png
+SHA-256-Digest: EsvPsEZ7+K1F7dD3azknY7nLQ+knW3fEMbWtEYpI4bQ=
+
+Name: guide/images/feature_editor/dependencies_required.png
+SHA-256-Digest: 9rVrKMKI0fbG/EWbEqLhA7UclrryRgtbihjl45tI8H8=
+
+Name: reference/api/org/eclipse/pde/core/target/class-use/LoadTargetDe
+ finitionJob.html
+SHA-256-Digest: mDanMTrtRgpO+YnjAc5O5hQkvND5/k0ms6thOYd+0yg=
+
+Name: reference/api-tooling/actions/ref-apitooling-setup-action.htm
+SHA-256-Digest: iqswy2StBz0lqbMdCv4FTqocvOkSOptk/RntuB+EPKo=
+
+Name: guide/images/tasks/import-version.png
+SHA-256-Digest: LyUPJ8k0KBvyoKU29rfyHPf1PrhchZxvPhJ6NaywElU=
+
+Name: guide/tools/target_shared/location_add_wizard.htm
+SHA-256-Digest: QbKhzP22/EjZCxG7bJslGDCzCpV5s79t4k0hj4EH/1Y=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/package-summary.html
+SHA-256-Digest: QrtPnS4L8Bugr/qIvrWmqf1u3Pfy+IAFmwACRrzEHoI=
+
+Name: reference/api/org/eclipse/pde/build/package-use.html
+SHA-256-Digest: qmRn7G21MFsTV008uqEpLoJKDrEOHkOOtxIjBOih0bQ=
+
+Name: guide/images/preferences/editors_manifest.png
+SHA-256-Digest: KM7pZXfbSzlJAS/9qtlCDU0qfbJhu+mD0KXnAXCw9oo=
+
+Name: reference/api/org/eclipse/pde/core/target/NameVersionDescriptor.
+ html
+SHA-256-Digest: Nt7CgW8YlQTLctybCGM2AQHTVgu7vKN37jqG7ddT8N8=
+
+Name: guide/tools/editors/manifest_editor/build.htm
+SHA-256-Digest: ZU66jn/6tn+DnCd4iXuHvIsIp5l0JjcMMofiE6QYBMI=
+
+Name: reference/api/index-files/index-2.html
+SHA-256-Digest: h+eP9Karf1kRrdk0peOHuV0vhH3uVCRtjlKAlgmWraA=
+
+Name: reference/misc/index.html
+SHA-256-Digest: YaClZK1vXQTjBv8aSsrGkg+7M8kZw0Nn4Nna9e6L2lA=
+
+Name: guide/images/export_wizards/options_features.png
+SHA-256-Digest: slnDDJJ34WZTj4E30t0qK6gWgo8kZN9fRnyj8pSQKaU=
+
+Name: guide/tools/preference_pages/editors.htm
+SHA-256-Digest: wAfIe0VpIlKnMt/gawB3pvNw+KMCfuKx1xlzaN/cpN4=
+
+Name: guide/tools/editors/simple_cs_editor/section_title.htm
+SHA-256-Digest: tZ6H1unrsSSIhW9nC4qzQro4FR1iM1lLLzWJnRJ+lh8=
+
+Name: reference/api-tooling/images/baseline-qf-dialog.png
+SHA-256-Digest: 8lI13QHgdhjVvcxEjpaKF52eJ/nqIz7z/hfLHZvRQEU=
+
+Name: guide/tools/editors/product_editor/licensing.htm
+SHA-256-Digest: LsnJ9qMxnjrjB4NzMuefo1v1otxdF5ZxGpzyyyJM8kc=
+
+Name: reference/api/org/eclipse/pde/core/target/class-use/NameVersionD
+ escriptor.html
+SHA-256-Digest: tqSufbyL/qcj1PPC7ZF4ojpwEsCaCgzrI3TvGjYA328=
+
+Name: guide/tools/editors/simple_cs_editor/section_help.htm
+SHA-256-Digest: HxIEWsRfXdlJLmm6arN2EtH429z2+mbyPSziK/SQ0bM=
+
+Name: reference/api-tooling/wizards/ref-api-use-dialog.htm
+SHA-256-Digest: OFCVDJUg5KzKmwZY4IIXlzNFMdZ2ZkrGJyvSkeDnHmc=
+
+Name: guide/tools/launchers/equinox_launcher.htm
+SHA-256-Digest: TB8Ow9pd6n5g1x5VKw4rD52RFHNUj/niojgSDZhKfNI=
+
+Name: guide/images/pde_actions/plugin_tools_menu.png
+SHA-256-Digest: dYpvVpOnnTfbeca5FKL5kQdm6+/x1mqGEm4mGJLxCe0=
+
+Name: reference/extension-points/org_eclipse_pde_build_fetchFactories.
+ html
+SHA-256-Digest: NHYXTzuTomHBESpwrGrwjkI6pxxBNaQIWsvBEz5d5iY=
+
+Name: reference/api-tooling/images/success_ovr.gif
+SHA-256-Digest: 9ENwM/c+i081EndR9qDtDBOCWqCVls+JdSWMTYTtHaU=
+
+Name: guide/tools/project_wizards/plugin_content.htm
+SHA-256-Digest: 2kY1PwYnD2BeUugeaJfAv+N2ybTw0YWIAmj4XAmMd84=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/AbstractPDEL
+ aunchConfigurationTabGroup.html
+SHA-256-Digest: Kh1NTeIj6TjpEuc3sNxz2sZUhhiY0IOgCfQxNKCagK4=
+
+Name: reference/api/jquery/jszip-utils/dist/jszip-utils-ie.min.js
+SHA-256-Digest: UpymcJk+VBW9ti7bgi9ZG6+iP1f5zOkQPwEAjOyLvBg=
+
+Name: reference/api/org/eclipse/pde/core/plugin/ModelEntry.html
+SHA-256-Digest: Gvpo7YFbvDBHuIGoCaC1+Af1gnxfdNDK/7RCZk27EOQ=
+
+Name: guide/images/preferences/osgi_frameworks.png
+SHA-256-Digest: oi+/JmSbgpzkCswurlTG4RCzRx2IHztYH6nTTSzEHZI=
+
+Name: index/_1_Lucene50_0.tim
+SHA-256-Digest: FcEC+1LYIi3OKhZ+wvlPT8+phn8MFCwGG/35RLCe3r8=
+
+Name: index/_1_Lucene50_0.tip
+SHA-256-Digest: Oz/2TywbDZMLRZY3iF2w3KC5P86teZCZLimNnAxmaaw=
+
+Name: reference/api/org/eclipse/pde/ui/target/class-use/ITargetLocatio
+ nWizard.html
+SHA-256-Digest: 5ppEuXuGQ6x30VRjZX9bDhPFPPAcxQ7Iw+02d7zYVD8=
+
+Name: guide/tools/preference_pages/schema_compiler.htm
+SHA-256-Digest: xr9OKQR7Gu30AEQzUfgnKr/bwpe7Cm9vPQAvlKA8ALE=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/ModelEntry.h
+ tml
+SHA-256-Digest: JLt8uVWGgvtW4HBwrhU5RHD+OHMNzrubnatJ/jWGqqA=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginImport.html
+SHA-256-Digest: rZZToMo20YRYucX3ZKoX6fK2IHv1hkaZjy3UkY3ximk=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/AbstractPDELaunchConfi
+ gurationTabGroup.html
+SHA-256-Digest: sxYGSX8oON02PV6E64/aBh+mwJ5gNyWlLyO7cV83oFA=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/AbstractLaun
+ cherTab.html
+SHA-256-Digest: RFXVzpGAkllH+AutR8jXTmRkCTcAa7QTflDRWs3C8zk=
+
+Name: guide/images/launchers/launcher_eclipse_prototype_create.png
+SHA-256-Digest: zMEnPLnfIiLYGyETnLs5fojfvYokyZ/SZUtej54W3yY=
+
+Name: whatsNew/pde_whatsnew.html
+SHA-256-Digest: 06/W7RBom3w5k5rjOVqNKB7ywWZZ1ghakdHsxFsf1jI=
+
+Name: reference/api/org/eclipse/pde/ui/templates/AbstractTemplateSecti
+ on.html
+SHA-256-Digest: J2S2ilg8lI3AZG8ySkfOOWQFl6Qmqmgm+Dl53XP5+K0=
+
+Name: reference/api-tooling/images/api-setup-wizard-preview.png
+SHA-256-Digest: whkFlk0hHq+/JbI69g4Oi5Wvslv27l/lejN1HjJGiO4=
+
+Name: guide/images/access_restrictions/convert.PNG
+SHA-256-Digest: iVzvDFEd7zLVVNokdSPtGfhd+zFlPJxb8WCkZwKQMZs=
+
+Name: guide/tools/target_shared/implicit_plugin_selection_dialog.htm
+SHA-256-Digest: +8cpwxR5MJ4JzdD/X6LiksMW86UfHKuOV7hkAWlNEq0=
+
+Name: reference/api/stylesheet.css
+SHA-256-Digest: n73tNAavtsShhPz1pvXekbzUDzgd/o5kBfmncsdWlAo=
+
+Name: reference/api/org/eclipse/pde/core/plugin/ISharedExtensionsModel
+ .html
+SHA-256-Digest: TR0Fq/8Lks9uotNWVAUlGDOqg/9buGBvN+0kIzTDFC0=
+
+Name: reference/api/org/eclipse/pde/core/target/package-tree.html
+SHA-256-Digest: +62WDciJOizS4saOFLxr4K3DsCvNta8E6xp8XGpNzm0=
+
+Name: reference/api/org/eclipse/pde/core/project/class-use/IPackageExp
+ ortDescription.html
+SHA-256-Digest: tZJ/koPNTpS6GCXJ+gGLmaTYHsVUErNbkZDS8YAnmIc=
+
+Name: reference/extension-points/index.html
+SHA-256-Digest: AcsXF5ieImtHDa9MUtp/nl06OM2Y/4YbZ2YeVJhbbIg=
+
+Name: reference/api-tooling/ant-tasks/apimigration-ant-task.htm
+SHA-256-Digest: zWJJbiArCGkc3uvJJm6UYSKefQSASGktAyMUVp+GenU=
+
+Name: guide/tools/launchers/junit_main.htm
+SHA-256-Digest: hH6TyFq0j/VHBAUSLeg/2qD6Bh95vS2jQiA/R3EbxIY=
+
+Name: guide/images/simple_cs_editor/wizard_register_category.png
+SHA-256-Digest: IU3A/5deBRrvGRvjjmviooJb/VG0g4IOPjS89oTgn+U=
+
+Name: reference/api-tooling/ant-tasks/apiuse-ant-task.htm
+SHA-256-Digest: XBKa6xbxlN5AQphrWflWUFDG6Ku/3UlE/ROJmJWWA9E=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IModelProvider.html
+SHA-256-Digest: //w5yij36xksErrziutkwTT5Ok4kxUJwyUleOArAT8I=
+
+Name: guide/images/composite_cs_editor/section_title.png
+SHA-256-Digest: bWmrJq4Ce5CIZOpFLPq6y0ZjdKaHK4RLDFN6fRFAGfY=
+
+Name: guide/images/new_wizards/plugin_structure.PNG
+SHA-256-Digest: Gx87Fc/6zYRuEjY5BzXuajJzkP9Jy9+63jCJSzoy/pw=
+
+Name: reference/extension-points/org_eclipse_pde_ui_newExtension.html
+SHA-256-Digest: /FOhZQt5e74eCDRfK7JVDKXjXN28toi4+3Gk2nTxu8c=
+
+Name: reference/api/org/eclipse/pde/ui/templates/TemplateOption.html
+SHA-256-Digest: aYQHY8q6effSxQJJTH+/yI/vS0+GbSEx0cY62ME0iyc=
+
+Name: guide/images/launchers/launcher_eclipse_prototype_prototype.png
+SHA-256-Digest: BDifS+BjCCgjLLvDHOuU1q5Cd1Hn7T8nCCdjl5vvWpk=
+
+Name: guide/tools/target_shared/location_edit_site_wizard.htm
+SHA-256-Digest: ll+8mkSMRNpZ7dJSJ9FXln4F1cmAhA7c+BfY06chZrU=
+
+Name: reference/api-tooling/ant-tasks/apiusescan-problems-ant-task.htm
+SHA-256-Digest: QVyyD9RXo3yhSj0I6Zx4lQXxugkZdGQq3AZ2RjiK9c4=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IMatchRules.html
+SHA-256-Digest: h+Z7t9i1oTAIm9Qh86nkBZCmps035567ImoNxmk6HDo=
+
+Name: guide/tools/target_shared/new_target_wizard.htm
+SHA-256-Digest: MQX6vkXBykhF+A3s3cPRq7NWpQ+4sbBtTiKfxSSVJio=
+
+Name: guide/images/tasks/shared-license-feature.png
+SHA-256-Digest: 7NSX/1Hs4AzpLURsulSVtgBfazNuCHbMykB2TDOA82Y=
+
+Name: reference/api/org/eclipse/pde/ui/class-use/IExtensionEditorWizar
+ d.html
+SHA-256-Digest: TyYn5ts0f+gRtadBxYCcWw0j6ukM37IeshKtOQOsfjU=
+
+Name: guide/images/access_restrictions/visible.png
+SHA-256-Digest: gSe1tjpWpSMPbFln72gijz9+r6y4DOIejUgHggDOS8w=
+
+Name: guide/images/access_restrictions/properties.png
+SHA-256-Digest: fIrXD8MSig2WqpvHizXXSNcQmIcUdsEiLLi8fOEe7s0=
+
+Name: reference/api/overview-summary.html
+SHA-256-Digest: Vt8Ww9EXHvVyhwMxqTQki+Ok8frK9rTJqIN6c4oS9/Y=
+
+Name: guide/images/launchers/launcher_eclipse_prototype_delete.png
+SHA-256-Digest: 2BLJs7KVyN+xqvaVtTnsf2gQnHm9+GLdU4S+KSb8rVI=
+
+Name: guide/images/schema_editor/section_element-details_2.png
+SHA-256-Digest: EZ7dT6OGYrf43Sa+1tMT8pD+c6mmAfz6C+Qdjkh8OEE=
+
+Name: reference/api-tooling/images/sincetag-qf.png
+SHA-256-Digest: sTC00HePS2fd+jFAp2Wnx3+P2YoabMOoz7niiRNbmuw=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IModel.html
+SHA-256-Digest: LibHU4v1aSBU1cVYhtKmJTbCiw6bSY/qtcgGuNYwPtM=
+
+Name: guide/tools/preference_pages/plugin_compiler.htm
+SHA-256-Digest: e7/FUUmds0g4jwk4YVnT4hniSxM32sPuLLX7JJ8k5Is=
+
+Name: reference/api/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png
+SHA-256-Digest: dmJ+TF07qHisGYRSpp8PBaJCyYpjGkJmLK+n7hlEBZ0=
+
+Name: guide/images/plugin_editor/overview_general.png
+SHA-256-Digest: IBhGirRRFMcka9NBLTAWMXmZEiCrvC6lwBI0oU9PQ9U=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IModelChangeProvide
+ r.html
+SHA-256-Digest: TicuWwUkhtA1upm+nPhu+eSgnRQBanQs3LhNOYQYXCQ=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IEditable.html
+SHA-256-Digest: P5a0M6kmtcjNtvUl6U4spWneH8eIfcbghkNZ1m0WVFg=
+
+Name: reference/api/org/eclipse/pde/core/IBundleClasspathResolver.html
+SHA-256-Digest: 0FuCdUG+U8EkJd7rcPQo8E/eIqeXMci8G88NBaXPMJg=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/EclipseLaunc
+ herTabGroup.html
+SHA-256-Digest: LwIOaBWvIyl2WmPjmp/LaHK4XzQBRdVOsGnIdEWOCAY=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/JUnitWorkben
+ chLaunchShortcut.html
+SHA-256-Digest: XOMt5fLJvSm/HO3Fwm6TtAPFRJOUmbq/Fq8cbNTnerA=
+
+Name: guide/images/launchers/launcher_junit_main.png
+SHA-256-Digest: 7Sn16ffXizy6jIVjzlBwE3Rj8bviYmFdZx1M0QwiRP8=
+
+Name: reference/misc/overview-pde.html
+SHA-256-Digest: J58wmgvAOVEFo8wUX2SJTgX8yOkaPzvoDOFCJQI934s=
+
+Name: guide/images/target_shared/location_add_directory.png
+SHA-256-Digest: 4szLKLTKIP1Mnt3IawOp+WIpGfeJK70wyBp9Ekwww8Q=
+
+Name: guide/images/schema_editor/att_req_obj.svg
+SHA-256-Digest: /weiTav9uMjioT3F+rU5Kl/YAqtD1cf+8oZGMhgjunw=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/EclipseAppli
+ cationLaunchConfiguration.html
+SHA-256-Digest: wRC9LaN9QIsKOrg65z2XZsFCxhKjQJXwQgqryf5rxRQ=
+
+Name: reference/api/org/eclipse/pde/core/plugin/package-summary.html
+SHA-256-Digest: Deb9YNy6P5SnD2426bQsFJGiRQVjG+tWDEOE1qGd6xc=
+
+Name: reference/api/jquery/images/ui-icons_222222_256x240.png
+SHA-256-Digest: ax1Q5RumNoJX3pdG/kgzvKSHjzNW3puPW4Wcbt0mmZ4=
+
+Name: reference/api-tooling/ant-tasks/apiconsumeruse-reportconversion-
+ ant-task.htm
+SHA-256-Digest: QmVtCyttrGEOAE5T9uq/EfppKsgfVFLy3kSkhzpxoH4=
+
+Name: guide/images/new_wizards/fragment_explorer.PNG
+SHA-256-Digest: Yz2gg1UG52t2TWCI+mwHN4fagtU80FoXTzNDfK/fm1k=
+
+Name: guide/tools/pde_actions/externalize_strings.htm
+SHA-256-Digest: pR1PxSSs2FgpuHk9IZPr2/yd2vGddx9NSzUdFj8n18Y=
+
+Name: reference/api/index-files/index-4.html
+SHA-256-Digest: +XNdTBNYqQu9Ccm20BbGY2sKK2eyXon0FntpazUeHbg=
+
+Name: topics_WhatsNew.xml
+SHA-256-Digest: Q8vseCBk982jRE1ncbslvMfKEJKzOLg6eF7BiV5+Dvw=
+
+Name: guide/images/launchers/launcher_eclipse_prototype.png
+SHA-256-Digest: 3I6ZuWArKlUD8ow+R93FGKyNeQk/guzlo/CconRT+rk=
+
+Name: guide/images/feature_editor/features_included.png
+SHA-256-Digest: ZirxxR566Py+Vq9/7FanJOEa2QuDvaRsG5HcoRrIaaU=
+
+Name: guide/images/schema_editor/editor_header.png
+SHA-256-Digest: RLSvWhpBrHX/xqLO7z3PJK/7RkSV2etet0bFJE7tWUs=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/OptionTempl
+ ateSection.html
+SHA-256-Digest: 5fABFvnYGsL/k7GY6zZvDENjlp/9tOEgRrBwSNUBKLk=
+
+Name: reference/api-tooling/ant-tasks/filegeneration-ant-task.htm
+SHA-256-Digest: F3YZ1YB4yHf7Fj6UMkV6EMmeLMcWOLqVSQ+DoilYgBo=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IExtensions.
+ html
+SHA-256-Digest: kfFX1kGOFsZCQEhHZ+eKBI/gg80jQfHgCqREUYCgJj0=
+
+Name: tasks/pde_p2_featurebuilds.htm
+SHA-256-Digest: A32hU9BOY3GgVS/gJyeuo27kWxP3bIdQYBBdOFWYXVg=
+
+Name: guide/images/simple_cs_editor/cheatsheet_simple_obj.svg
+SHA-256-Digest: KxSVBUs/dOk7SW6ThmXpv4ydkMG0ca5lD13rC4VBIqI=
+
+Name: tasks/api_tooling_compare_to_baseline.htm
+SHA-256-Digest: BUVhR91hRN2xpraeQhb9if+RGUc0oskzZeBB07GtHNA=
+
+Name: reference/api-tooling/ant-tasks/apiusescan-problems-reportconver
+ sion-ant-task.htm
+SHA-256-Digest: 0Wz7wSE1kSBbObSyD/DV2HbpPDFpU+V1VOQvXMKKfJM=
+
+Name: reference/api-tooling/images/sincetag-dialog-qf.png
+SHA-256-Digest: JD1xTZvKAEDWLuz+b7u4LRbBEnFSweKZ9X4ZmLVgkiw=
+
+Name: guide/tools/editors/simple_cs_editor/section_command-details.htm
+SHA-256-Digest: utUtzsKXP2TeOeisPCaQc6W/kUnDjaQ5cX0RDVy4CGI=
+
+Name: tasks/pde_feature_generating_ant.htm
+SHA-256-Digest: nGSn2goyHCYZAW6ZaDv8BGS7C6Z1NTeDduVYDidhbfs=
+
+Name: reference/api/org/eclipse/pde/launching/class-use/PDESourcePathP
+ rovider.html
+SHA-256-Digest: dQfGob1RexIs+FzAtpWqcbiQVrCWPeCyaNgagcmpnEc=
+
+Name: reference/api/org/eclipse/pde/ui/templates/package-tree.html
+SHA-256-Digest: rS4bVx1Z393N24PQKKCYvbl8UGL5cMzKlrERfEwmNS0=
+
+Name: guide/tools/target_shared/move_target_wizard.htm
+SHA-256-Digest: fuBk4yNR+yK+ibse4JFQsmmLC8QHKmXotZPf8jeBEAc=
+
+Name: reference/api-tooling/images/sincetag-editor-qf.png
+SHA-256-Digest: lDVOxFiOafLtAWSFI7I8ohxycsyjyhxpHBsc4yGMa0I=
+
+Name: guide/images/schema_editor/schema_identifier.png
+SHA-256-Digest: blXs7OB/B8nTZdJ6mx+x4AC0FX0Jvse/8iGyVYQA+TE=
+
+Name: reference/api/org/eclipse/pde/ui/templates/ITemplateSection.html
+SHA-256-Digest: JFUHoELVnH+bNub8dL2qBL7NORONZ/WXVwzSL4IVHVA=
+
+Name: reference/api/jquery/jquery-ui.min.js
+SHA-256-Digest: yeac3n16841avpxeB+6HJWscUPIurIuPQxwnIZYa3bQ=
+
+Name: guide/images/import_wizards/import_from_all.PNG
+SHA-256-Digest: RyagkdV+C5x8AiGDRndm8D8QKgQgIdHUs0zQl0g1omQ=
+
+Name: tasks/api_tooling_create_filters.htm
+SHA-256-Digest: QiRSxUvQ5BFpLzcIxG1B0qJv3gtulQNucTxVXxGy/ig=
+
+Name: tasks/pde_custom_callbacks.htm
+SHA-256-Digest: dj3LyUcvznA1ON0olGZ3ITaFUuDjlLK06D1p7huobak=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/AbstractNew
+ PluginTemplateWizard.html
+SHA-256-Digest: pKbMtMJVTGFQWbC19/FY4HTBBUhWQ48sEwP6RFrBTKY=
+
+Name: guide/images/composite_cs_editor/dialog_cheat-sheet-selection.pn
+ g
+SHA-256-Digest: VocxYjEWCViOmZuuUyWg5xgZCZvJf6L4u2XtvZtv820=
+
+Name: index/segments_1
+SHA-256-Digest: IaGh9gI1Wqy+Nt2Hdz7zvwuApiG3L1DIspqn/iAW2wE=
+
+Name: reference/api/org/eclipse/pde/core/target/class-use/ITargetLocat
+ ionFactory.html
+SHA-256-Digest: 6zdJWZh4HFEfRo+9gChHXVJsIfEJIZNkpiZmwLpNBOs=
+
+Name: reference/api-tooling/images/use-ui.png
+SHA-256-Digest: fC5kql6bpqy3Sb9Wx+zCfFI9PReVX312G16R06y9RGs=
+
+Name: guide/images/launchers/launcher_eclipse_environment.png
+SHA-256-Digest: Vljx2ub0LoGrF1Uex2pfhi0hlBAZrXnocSUVx9wY5Ok=
+
+Name: guide/images/simple_cs_editor/section_step_master_2.png
+SHA-256-Digest: Mx8VnsDJKBTSWEVBTsNoH0Yywrr2FDKxkskoW07g4bU=
+
+Name: reference/api/org/eclipse/pde/core/IModelProviderListener.html
+SHA-256-Digest: 6zNr20wQrVcgJPeLd9BDbWnA5WGA+wZA6sV2UMAAzhI=
+
+Name: reference/api/org/eclipse/pde/core/IModel.html
+SHA-256-Digest: hoYPbReL6kCu5In2/LIt34Tt56LrjshD/3XmE/8fNn8=
+
+Name: reference/api/org/eclipse/pde/core/project/package-summary.html
+SHA-256-Digest: VmkROmuK2n2rwUTGNJEV4qEbL5JbWcKaxbLS0j04eYk=
+
+Name: guide/tools/editors/feature_editor/feature_editor.htm
+SHA-256-Digest: nHGTKPdQSPK+CA5H+PS7mmYqe0FouC3DFdrlAOZNLCc=
+
+Name: tasks/pde_feature_build.htm
+SHA-256-Digest: 9vWvDeVo/K7f+yoS4EZlEOJWm6wz8DKuTdtCG7do0l4=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/EclipseLaunc
+ hShortcut.html
+SHA-256-Digest: Ii5rzw/1WBdP97DUm95BLNekMgz7czrNosIFF4TsSuA=
+
+Name: reference/extension-points/org_eclipse_pde_ui_pluginContent.html
+SHA-256-Digest: 1WrAkS75wdk3Hap10zjvs1LhluOQ8Erqy3GVsKQ/Ins=
+
+Name: reference/api/org/eclipse/pde/core/project/package-tree.html
+SHA-256-Digest: /s6/Zwepr1gyrz7TFDFjC+fYwFzGDtg8/rNKhc0kblA=
+
+Name: reference/api/org/eclipse/pde/core/target/LoadTargetDefinitionJo
+ b.html
+SHA-256-Digest: 4E+tyLT9Z4lgJPfdohZXl6EgjJ2uF1WZkpy4WlJTzC0=
+
+Name: guide/images/launchers/launcher_eclipse_prototype_unlink.png
+SHA-256-Digest: rlTp59UHycchbhbUOuS59r/87hi9QIr6Fd8/YMSqeVo=
+
+Name: guide/tools/project_wizards/plugin_from_archives.htm
+SHA-256-Digest: aTrh7760MziWk7y1sRl93zxcEv3qUO3MlIl4jMQEnJo=
+
+Name: reference/api/org/eclipse/pde/core/project/IPackageImportDescrip
+ tion.html
+SHA-256-Digest: 8ZxEMe7ZCcBfnHc6rEPIY+t6lhYs6uPxu9yUbNpXHUM=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/AbstractLaunchShortcut
+ .html
+SHA-256-Digest: 3BNklvMVox0XNhH8wpmxOaVK4wLpJu+hvQKVGL4bFx0=
+
+Name: reference/api-tooling/ant-tasks/apimigration-reportconversion-an
+ t-task.htm
+SHA-256-Digest: Dz4fA4FFRlY1mMcGUmsIrrVCWOE9XzliPEHCCvPwFj0=
+
+Name: reference/api-tooling/images/api_options_compatibility.png
+SHA-256-Digest: ok6fET6lrgEqBWwtjRJ+V4TLHZHeQs5N0Gxex0Dfuvo=
+
+Name: guide/tools/launchers/configuration.htm
+SHA-256-Digest: q3eH3ZegD1AjnKMYUAnxXEz0w/MQaNbvZWZtISkbKF8=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/OSGiLaunchCo
+ nfigurationDelegate.html
+SHA-256-Digest: XDqjhbh9CsWGfEaUIta1H8vIowsWG6whZlPLCvloVts=
+
+Name: guide/tools/preference_pages/plug_in_development.htm
+SHA-256-Digest: EHqFjx5bGmmuHKDonM5DTuBVmHKhIy5fC9/e5bMlsZE=
+
+Name: reference/api/org/eclipse/pde/core/build/IBuildEntry.html
+SHA-256-Digest: 0dr/TwE+ynYKx/jgr8b4v+Es2T9CQ/uPWe3UV72OYtA=
+
+Name: guide/tools/editors/manifest_editor/overview.htm
+SHA-256-Digest: Tm2H8UVwKC/sPQyzWizuBnE4LRtv9WX8Efup7HCxVGY=
+
+Name: reference/api/org/eclipse/pde/ui/templates/OptionTemplateSection
+ .html
+SHA-256-Digest: YuxubPWZed8SSB77goM7+sR0lAnAywT7wS/Mgn/mxQQ=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/EquinoxPluginsTab.html
+SHA-256-Digest: AjYpw7e/BVj++O7JmKTDMcqwomO4F5S4Y2VEXV4isLc=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IExtensionsModelFactor
+ y.html
+SHA-256-Digest: 4lgShLMKlyMyUuIRyKGJxjY4QFMNsdWRzYj4L70cKbc=
+
+Name: guide/images/tasks/shared-license.png
+SHA-256-Digest: IXGqMldYpwg4wLtampFWiyXsbIFoyrR+4Is7BbWe97I=
+
+Name: reference/api/org/eclipse/pde/core/plugin/package-tree.html
+SHA-256-Digest: q+ANFPO0ne2T7rwOxvDNZdeSoAL79MBXdB+mtJMewvc=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/PDESourcePathProvider.
+ html
+SHA-256-Digest: onTPmOVN0imInP+lspCpDMSVMUIqEbmbXpWMHgbFEYg=
+
+Name: guide/images/export_wizards/target.png
+SHA-256-Digest: W+Pl0ZIAZh7VzRDKBjvR7vS+FNT3BJ3MKPzet8ecco0=
+
+Name: guide/images/target_shared/edit_target_content_tab.png
+SHA-256-Digest: Pq1MYssZPB9xq1IMoDgUWdp9jRnk41ArXi+hh9l/hsA=
+
+Name: guide/images/preferences/outline.png
+SHA-256-Digest: LDPQ4VO6J0jFdDXtHoLNIOvwSQqaFZVps1jMXQn0Qwc=
+
+Name: guide/images/pde_actions/update_classpath.png
+SHA-256-Digest: eotC89P9jA61zL+2pj8g3ZjPcxymMTec+CgdOTSfvOo=
+
+Name: guide/images/schema_editor/section_compositor-details.png
+SHA-256-Digest: XIZ8G5DaSxU+outPieKRWQjVnSodfLwjpeGQ/WavsQs=
+
+Name: reference/api/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png
+SHA-256-Digest: 78ErcbUTzMdShPeP9iUpKliqTr9pJ/h80qjgexAweBY=
+
+Name: reference/api/org/eclipse/pde/core/plugin/ISharedPluginModel.htm
+ l
+SHA-256-Digest: WgL3Q/HO5G/z/TAF+UuxC25O4NBaQPw/kyrT5N24nKI=
+
+Name: reference/api/jquery/jszip-utils/dist/jszip-utils.js
+SHA-256-Digest: CZmy19ZFEFdFPhEFu8aHss2jJNSp3zASoAtAn+Akcgc=
+
+Name: tips/images/workspace-plugins-override-target.png
+SHA-256-Digest: 2GuNjQ51sWbvRbvH8BmlCtLRrkITgHkWnQ46PMyI8aE=
+
+Name: reference/api/org/eclipse/pde/ui/templates/ChoiceOption.html
+SHA-256-Digest: A0819SHRfXKwqS4A0E2AdSr3fY5oOZMkpFfIgLTx2jA=
+
+Name: tasks/pde_individual_source.htm
+SHA-256-Digest: 2YM01MaSqG9GA5y1w8qJqSVpK+wATNlkrXBR8zlIoVo=
+
+Name: reference/api/member-search-index.js
+SHA-256-Digest: EKDDl+pykQbqfycZWuAgJK0jTVy+1fSGDeaKxGO66O4=
+
+Name: guide/images/toc_editor/toc_link_obj.svg
+SHA-256-Digest: WL0lS4qE3CwcRxbtZ7vzW5ybgU+XdIHT+HkFYa/xVQU=
+
+Name: guide/images/new_wizards/plugin_explorer.PNG
+SHA-256-Digest: Zx2cchGRHdD/WnUgpIk0yILFl2bu0TTL/9BzDlEqS/Y=
+
+Name: reference/api/element-list
+SHA-256-Digest: GbG2kQbwhqC3rSazWcZr0qvFUHF8CnBSzBD9ashx0ww=
+
+Name: guide/tools/views/plugin_registry.htm
+SHA-256-Digest: 5s/a+wfJHFv3d4Xo31Pv4Q3m/9JzFqCY38wqdU2A7to=
+
+Name: guide/images/product_editor/launcher_arguments.png
+SHA-256-Digest: KZjjXA4XIBsDj5qdZMTK6Zx/pj3a0dUPxOgq8rhOrOQ=
+
+Name: reference/api/org/eclipse/pde/ui/target/package-use.html
+SHA-256-Digest: 8rJAUYHlbLSB0ANmZE2FAWXNbA31JIT4Tz0aoB2aOP4=
+
+Name: reference/api-tooling/images/remove-filter-editor-qf.png
+SHA-256-Digest: TfPfIulAaOG+X/r6bpe/CC+iWrQHzv6EJhcrCKzum5M=
+
+Name: reference/api-tooling/images/version-qf.png
+SHA-256-Digest: Sx6l5QqGRAbamlH5KGNkjix43OBp7jE/X8hYOGGo56w=
+
+Name: reference/api-tooling/preferences/ref-usescans.htm
+SHA-256-Digest: tv6mtaVFXDHRTiFj7Kq/W+lEWVYGyhbOrdAIk4GKAzw=
+
+Name: guide/images/export_wizards/destination.png
+SHA-256-Digest: cBl0dMC3qNbZoocTYJkiuEJUynaHi8hXNcXZYAmglIM=
+
+Name: guide/images/toc_editor/toc_obj.svg
+SHA-256-Digest: yNyVV3L0hI1KNlH6ZDzee162FfIWQCBJOqUjEkcxNQM=
+
+Name: guide/tools/editors/target_editor/content_page.htm
+SHA-256-Digest: 38Kqx3Vg+4cL3mXvgKgKSH7dqTajI3VPoXr7OhL3hck=
+
+Name: reference/api-tooling/wizards/ref-api-setup-wizard.htm
+SHA-256-Digest: 5VmzETe24J4q4MgD+Fjc7YfARutZ/4JIDpor3Om5JqI=
+
+Name: guide/images/category_editor/manage_categories.png
+SHA-256-Digest: +bFJovZ3LvN26x+355q0n3IBE3ID8vPv8vq4FwgAHmI=
+
+Name: reference/api-tooling/ant-tasks/deprecation-ant-task.htm
+SHA-256-Digest: gRsrqdgK4SFn9P0TzWZqv77InIlGWMf2XpKVUaS+oTs=
+
+Name: reference/api-tooling/images/ok.gif
+SHA-256-Digest: AGvmp/fVxl1uyWpQYnh9NvTc8jA8EKV0v+eQdqMFxDs=
+
+Name: guide/images/toc_editor/toc_topic_obj.svg
+SHA-256-Digest: 1yLPeWSO9+KbFgCgTWiSp3jfbuntNL9oKLGL7XikcD8=
+
+Name: reference/api/org/eclipse/pde/core/build/class-use/IBuildModel.h
+ tml
+SHA-256-Digest: R7ArPKtRM1L9e+UNFlu0K5kQFNBc8QWtKnx7xwVirkM=
+
+Name: reference/api/index-files/index-17.html
+SHA-256-Digest: mCU1s0mTlNrea0F52yZqatBUaJJ2pJ6OlqxaGuUMoK8=
+
+Name: reference/api/org/eclipse/pde/api/tools/annotations/class-use/No
+ Reference.html
+SHA-256-Digest: UuHgAXN5CHNFF8lKQhPwYSwaxfiyO7czxXIJYC7t9PU=
+
+Name: reference/api-tooling/api_evolution.htm
+SHA-256-Digest: 18vRLAm9QB/hQfMx7ZlVF7OnFlkkyg3i9uLGuvfLO+8=
+
+Name: reference/api-tooling/images/baseline-pref-page.png
+SHA-256-Digest: FToE4BD9ty74PCjUGNNsRNKpkH+g/V9JizAEChpXZQc=
+
+Name: guide/images/export_wizards/webstart_features.png
+SHA-256-Digest: clezVAwh8EXAbdPTaFXfB2m6S1ea90RPeBtVcYFeyT8=
+
+Name: tasks/api_tooling_baseline.htm
+SHA-256-Digest: xCt/oUcY/n7CK/Oq/wygUg1oVpNZEjcF++m583yNcfk=
+
+Name: guide/images/target_shared/location_preview.png
+SHA-256-Digest: ZP3swfv/V8opeu7vQ4xLcR3JkObMEEObTKqU7NL4M74=
+
+Name: guide/tools/editors/product_editor/configuration.htm
+SHA-256-Digest: MLV6BCQri87XprctwPwHimDqc/6kD47qPUjFuOpsUiw=
+
+Name: guide/images/preferences/target_locations_group.png
+SHA-256-Digest: iEZWpbCWZVkudlCYbHxnTA9vLVxW7tk888cmLNnXzoM=
+
+Name: guide/tools/editors/product_editor/updates.htm
+SHA-256-Digest: 7sIzI0jhUdCPmDsuenpkHKC+uoIhuTaXXfaYXLHEml0=
+
+Name: index/_1.fnm
+SHA-256-Digest: ISEngEG2f9+AIgCx5BUW53e2cTj6QhQs+rmQ2f91E0k=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginModelBase.html
+SHA-256-Digest: Lqq2srwaCtljtDgkfn9ekY/n+IAJwymUwDZNa43Bahg=
+
+Name: guide/images/plugin_editor/extension_points.png
+SHA-256-Digest: fhwsu/wLvA9wQV/7PI9iINSsUTsx590AIPbiCMg4uEc=
+
+Name: guide/images/feature_editor/dependencies_properties.png
+SHA-256-Digest: klYdzILlZxOAYl4INrT0TKryv2X29DrGx465c3XbMC0=
+
+Name: reference/api-tooling/images/remove-filter-dialog-qf.png
+SHA-256-Digest: zO8uLweeUJA24nFC4lH6BZsNAvd3ChnknNzzHbQp/v4=
+
+Name: guide/tools/editors/target_editor/source_page.htm
+SHA-256-Digest: Iz1ndj1AbO/q/H59lMBDwzopeMqDfn7d3e0j1O3XlIo=
+
+Name: reference/api/org/eclipse/pde/core/project/IBundleClasspathEntry
+ .html
+SHA-256-Digest: WO2CXcg5+juPLFJj9esgtVxVQbnAeyolQPk+j1IvBZM=
+
+Name: guide/images/product_editor/configuration_properties.png
+SHA-256-Digest: ITb9zIFzD57aRwkF9awCAow1Yi6I4IbrT8oJ4KoU/fw=
+
+Name: reference/api/org/eclipse/pde/build/IFetchFactory.html
+SHA-256-Digest: SMp3lIdovqbWbyt1DREOCBSJaSH5WkovjwLkx8zBn3c=
+
+Name: guide/images/tasks/feature-jar.png
+SHA-256-Digest: o72PtnZnUUuKIgf1qoNf2HegQTMzDSHqgbIU0kAy++o=
+
+Name: reference/api/org/eclipse/pde/core/IModelProviderEvent.html
+SHA-256-Digest: FUKwT7t4aKayAqIUR2/yJNdmENMYI0Q66RyYzS3ld1I=
+
+Name: guide/images/site_editor/map_environment.png
+SHA-256-Digest: WKubXxCp0x38/nTxkr2GgcyjNCBFltaG7SYK8bF+LD0=
+
+Name: reference/api/index-files/index-10.html
+SHA-256-Digest: LPAKfAtOIBEoncwta4GSWKrxzs/iCyu07f5Hw6mA/Q8=
+
+Name: guide/images/product_editor/configuration_startlevels.png
+SHA-256-Digest: YljHFB1ixHL3QZ+9ZE7OR2u3QZp1TQwRxYvqLyENkZM=
+
+Name: guide/images/simple_cs_editor/section_step_master_1.png
+SHA-256-Digest: xw/RNeBRzeAkdwn3kegn9wOw+54y14VjHeRXdIhAQpw=
+
+Name: reference/api/jquery/jszip-utils/dist/jszip-utils-ie.js
+SHA-256-Digest: IUthO2b9toPV9m9xLQiSjeJ278cFTmku/VmLsmRN9NQ=
+
+Name: reference/api/org/eclipse/pde/core/target/package-summary.html
+SHA-256-Digest: VVloB5hPkwajh72Zi08yZtkaqxfV1pDe+e69zkGZHag=
+
+Name: guide/images/product_editor/updates_repositories.png
+SHA-256-Digest: 9Wi1dnk27TxrQXph44xSMp+q5YxGmp7/1LjXs4qqMJE=
+
+Name: guide/images/launchers/launcher_eclipse_common.png
+SHA-256-Digest: brNu8sMWuC3MVHJbHRrr8zGpwf3YaELEQgqOkg0k/8Q=
+
+Name: guide/images/preferences/compilers_plugins.png
+SHA-256-Digest: IxnXWDJzDT1LL35mj2ZbNknf2RO6SUwn0TvNZUh56w4=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/ITemplateSe
+ ction.html
+SHA-256-Digest: BN73KW9Mt+KgbsI5CbkNkRmJUsr6mCZwfGRuLIgJhK8=
+
+Name: guide/tools/editors/product_editor/branding.htm
+SHA-256-Digest: Axha27qOT8s00V67pUtWe/HiEIhKybCew8prkcviG34=
+
+Name: reference/api/overview-tree.html
+SHA-256-Digest: +oQXc3gvI6dV8Jj+GAGinonwSPnhKtFV6sXupP2Nnoc=
+
+Name: guide/images/target_shared/import_arguments_dialog.png
+SHA-256-Digest: iqTOmHq1kYNOwq7dxtZm7XBXAUpcClwnk8yJ4S1SkTA=
+
+Name: reference/api-tooling/images/api_options_version.png
+SHA-256-Digest: EOJY5oQeXqKfIbeyOU0NlGRWm8sGraVH8d4F1PZi8pE=
+
+Name: guide/images/feature_editor/plugins.png
+SHA-256-Digest: YBMbhSFHCxzM/idZOZuj77xYr9BZZpqBOcYmol7ITYo=
+
+Name: guide/tools/editors/simple_cs_editor/editor.htm
+SHA-256-Digest: YiAKHkV5+JUmcJDppbXFlh+AFQyBqHq+gAzCNAlQv1w=
+
+Name: guide/tools/file_wizards/new_category.htm
+SHA-256-Digest: DibPp/4s5Jtf+a1BbUzrUc3gF6EyLAr0tf58GM92NpQ=
+
+Name: reference/api/org/eclipse/pde/ui/templates/StringOption.html
+SHA-256-Digest: 6DNSKfzSRUYU3CN8gAd9bRIDM97q/sO05ymAzhzMP00=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginRefer
+ ence.html
+SHA-256-Digest: uJLNow7rl6UEmc5ShxQ61KUBSuv+bmqP6pTTKpOECB4=
+
+Name: reference/api/index-files/index-13.html
+SHA-256-Digest: +SbjIT8AGNa5JZEYYTx1JBGHRDkYZTz0XMy4bHLmzCY=
+
+Name: guide/images/feature_editor/information_license.png
+SHA-256-Digest: amYBdqmyX+3weTB7iRHIvq3nJuXGPUdj+ifdUkvMNiU=
+
+Name: guide/images/preferences/compilers_usage2.png
+SHA-256-Digest: brvpDVed8ahU9AjEHnhHCwfE2uOk4Dtts3sBSc+n1uA=
+
+Name: reference/extension-points/org_eclipse_pde_ui_launchShortcuts.ht
+ ml
+SHA-256-Digest: DbvI1fh0G5UNn9PW6xUxOujELs3upGrNJdXCoyNQdKo=
+
+Name: reference/api/org/eclipse/pde/build/class-use/IFetchFactory.html
+SHA-256-Digest: u+CqDKUT9mIIJswU+UAfVVlXjJrJ1aMuzbiHKyNQbGw=
+
+Name: reference/api/type-search-index.zip
+SHA-256-Digest: uK+FEBm/G7DTfA0SYKSnMIfgpIrb1zZmRRyOVrZklnk=
+
+Name: guide/images/target_shared/location_add_features.png
+SHA-256-Digest: AyACqxp7IVz55kpiljNxJR0A1+S3oIsecRO7TmwMGz0=
+
+Name: guide/images/plugin_editor/extensions_details.png
+SHA-256-Digest: ILZXIXK7IG3duRP2CF+YSwahjgedwVr0ZJ6VD+0xN94=
+
+Name: guide/tools/editors/simple_cs_editor/section_sub-step.htm
+SHA-256-Digest: G3I+B0O1SCgC5Ic/kdmt3AQjEf89fRkQDctZszZ6WIk=
+
+Name: guide/images/tasks/import-as-repo.png
+SHA-256-Digest: EUSrHhez7ffZAZv51gcJ2f/kti4lNeQ+OdxnE2FQPxM=
+
+Name: guide/tools/project_wizards/fragment_content.htm
+SHA-256-Digest: 4W2Wx+oRUOhVqDPlzFNwou3kEZ9fMMxRYryL1JQxs68=
+
+Name: reference/api/org/eclipse/pde/core/IIdentifiable.html
+SHA-256-Digest: KUFR7R57Snwd+O0JwQ+9G6swAHSMBuVailrO+WaVdeU=
+
+Name: guide/tools/editors/toc_editor/page_toc.htm
+SHA-256-Digest: P0BPXKcObFWb2qUDEgnYa8D9v+wpFfGG3Dj2Yua7NF0=
+
+Name: guide/tools/editors/simple_cs_editor/page_cheat-sheet.htm
+SHA-256-Digest: 0+EF1LqqsGgi4K8k4KV96wkYONWP21jtvUHFIS19Hzc=
+
+Name: reference/api/org/eclipse/pde/core/target/ITargetLocationFactory
+ .html
+SHA-256-Digest: HFwUcPLGxUe2hnGqvwDvAc6qY2cVBOFNqHhpH7v9ht8=
+
+Name: guide/images/preferences/compilers_general2.png
+SHA-256-Digest: +Iu5Og0XmOKQ4hf0GQTL3xNtfbR9uPN8qyQBIFkpj/s=
+
+Name: reference/api/org/eclipse/pde/core/build/class-use/IBuildModelFa
+ ctory.html
+SHA-256-Digest: bHhWyboEy+0bP48BKqiRbsCucHNVrGbwFX6yoJ83Hos=
+
+Name: reference/api/member-search-index.zip
+SHA-256-Digest: //VAFPqOReRI8TSklSP5zydG/k6yBhXTP9TG8FLwAI0=
+
+Name: concepts/feature.htm
+SHA-256-Digest: RSOX3f1MjjH5RaQpEp/PCCeJi0QvcYlzEfwyxOX5sA0=
+
+Name: guide/images/simple_cs_editor/cheatsheet_item_obj.svg
+SHA-256-Digest: srZjvXrOqyEL53EPZ0FuvMNDtiPAGO7l0EvxT/lci6k=
+
+Name: guide/images/views/plugin_registry.png
+SHA-256-Digest: Ez2m057clIHIg5FNELcd85RfIVHrm35WdisoH1iC9HA=
+
+Name: guide/tools/export_wizards/export_wizards.htm
+SHA-256-Digest: NWv0EKSxhDqNjNJG51j3y6v5lEazJeUpV22XyVKSSYs=
+
+Name: reference/api-tooling/ant-tasks/analysis-ant-task.htm
+SHA-256-Digest: NK2wXjEoeUc7YgckXejjR6DZrCkwdWjXDH/AsPRGuTU=
+
+Name: reference/api/jquery/images/ui-bg_glass_95_fef1ec_1x400.png
+SHA-256-Digest: yLx9NGxI6PDrA7uS7e9oMrPKagCnsaaED/hLiEQnA6g=
+
+Name: guide/images/ctx_help_editor/help_context_topic_details.png
+SHA-256-Digest: QSEeVP4Gvzslje218mqxSHPo7/7GLU4CgYzgIKF6I7A=
+
+Name: guide/tools/editors/target_editor/environment_page.htm
+SHA-256-Digest: M0IvUGR/IU6gefalFdJiVktaALhp2f+rJemSkH5LPyk=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/EquinoxSetti
+ ngsTab.html
+SHA-256-Digest: QGHvq+SIfSmE3zUyOGirCmveAOOhVL4n+8CtuuVJLsU=
+
+Name: guide/images/new_wizards/fragment2.png
+SHA-256-Digest: XhvFI/kJCoUhSpZRKgv6xiONqTqjpaqKOWAddPLeF90=
+
+Name: reference/api/org/eclipse/pde/core/package-summary.html
+SHA-256-Digest: SdghlvS+xrqkrvpL71R8qrrssuaJEIPzTREDqGZyPfM=
+
+Name: guide/images/preferences/compilers_references.png
+SHA-256-Digest: OrWdx8eDkSuisMdrbKaJ7jrCiGaPa7o8ZgVHbA/2Wwo=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginModel
+ Base.html
+SHA-256-Digest: D5394cj8+425eQODvVbauPCUUdZNjRPVAn9RxrRZ4bc=
+
+Name: reference/api-tooling/images/use-ui-patterns.png
+SHA-256-Digest: 2JJXJnCPr0OIRPdt1FnTYG5x5GWiGOcuyPcat6a3cUQ=
+
+Name: guide/images/product_editor/branding_welcome.png
+SHA-256-Digest: 9l6Vaj4iFt/5zohYmwOqnheZv9OT3WwMfmMHWIzidbg=
+
+Name: reference/api-tooling/actions/ref-compare-action.htm
+SHA-256-Digest: NKIHhk2+kMzy8d7JwiuFAeBQ/si5gHH2Ve5OjclJbS8=
+
+Name: guide/images/target_shared/edit_target_environment_tab.png
+SHA-256-Digest: 8l77M/CMaeE8YRdWhFMdml5sIP1ckyYhkGMBap0gwlw=
+
+Name: reference/api-tooling/images/filter-qf.png
+SHA-256-Digest: /x+qpEZbZGJwl5fOk3+PfnH8S9rAuQHBBkkct/756JU=
+
+Name: guide/images/new_wizards/schema.PNG
+SHA-256-Digest: 9p749lKYKvFO9174FFT/VZ+RWr+IJ54l5QBPRhc8twk=
+
+Name: guide/images/launchers/launcher_eclipse_main.png
+SHA-256-Digest: 6ZfrMObBwyRqdbOREKBoumy/Elz9M83wSof4IrFb5Xw=
+
+Name: reference/api/org/eclipse/pde/ui/IFieldData.html
+SHA-256-Digest: cG2z+JXX6qXo6oqIBml4Q/dH3z/uUB8yU/B44Bmbv70=
+
+Name: tasks/pde_compilation_order.htm
+SHA-256-Digest: I5J/8NOXUaPkwtFvAvMrtGI/u3s74mj3YYUooQvwZSQ=
+
+Name: tips/images/layout-spy.png
+SHA-256-Digest: PooeWG/MqZh3ebgA64yZGc8VGcSD7DRw1LcvSy9PFvM=
+
+Name: guide/tools/launchers/junit_test.htm
+SHA-256-Digest: kfIvyeVQdce5oYRjD19j8KyZu9+4kfMGdaTMEhRl8F4=
+
+Name: reference/api/org/eclipse/pde/core/target/TargetFeature.html
+SHA-256-Digest: XArNiDVveaf9z6xwPvWSl7pbzS0ITz6Pg23+aonf+7o=
+
+Name: reference/api-tooling/images/api_options_usescans.png
+SHA-256-Digest: WjLuNzWgNJvmKQQuBrEqM8o4pneRH7YFFy6iBGiV3uQ=
+
+Name: guide/images/plugin_editor/runtime_exported.png
+SHA-256-Digest: U03M7LN9sLyuBn350g1XkVEu9KcGLmJ08gYhkqtgaxM=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/IPDELauncherConstants.
+ html
+SHA-256-Digest: bedFLdiMVJzF0da6Ng9m3sbdiJfLyrqsR0oJVv3JwJI=
+
+Name: reference/api-tooling/images/api-setup-wizard.png
+SHA-256-Digest: RKstoJA+auFFfp2WPkkRIW+UCCTc4p53VqStFqs/WME=
+
+Name: guide/tools/editors/simple_cs_editor/dialog_command-composer.htm
+SHA-256-Digest: WsSgk5QRa8b0LGzhhgjBJ1WCP0BV7+CGrMFshBpVKKY=
+
+Name: reference/api-tooling/quickfixes/ref-api-remove-api-filter-qf.ht
+ m
+SHA-256-Digest: iSPkuIui4f/3bhAGn80sme2ik0HbBL4u9rSVz2P8bGU=
+
+Name: guide/images/schema_editor/choice_sc_obj.svg
+SHA-256-Digest: HBiWLvvUWmeoSCDD0p0IA6xGqcaQnF5QWTQLUIus8lE=
+
+Name: reference/api/org/eclipse/pde/core/target/ITargetHandle.html
+SHA-256-Digest: UPnhCaxzZkn3UTe/BmRlJenLEri4QmP0HFgL8UKsmJY=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/NewPluginTe
+ mplateWizard.html
+SHA-256-Digest: hjhlWffNZOAhxuQlTsGO6ZzKlF69svqHM9/JxUN3KdM=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IExtensions.html
+SHA-256-Digest: 6W61sbvIFXdrfig2QDPCqcvzWC6oM3FLZArXy5roQ+g=
+
+Name: reference/api-tooling/images/api-compare-wizard.png
+SHA-256-Digest: HerUi3Yp4hwwbjXMigp7tH+Ingh0WdcEoFNgb9x3sMY=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginObjec
+ t.html
+SHA-256-Digest: lMIWJKrZ9qqjw9pUuqwvMUgH5JLqdM+VBTXFtPr0A6g=
+
+Name: reference/extension-points/org_eclipse_pde_ui_targetProvisioners
+ .html
+SHA-256-Digest: CMa99QhliMsGmAOSGD9nyFhm7K8UbbNzKGEEOR6eYuU=
+
+Name: reference/api/resources/glass.png
+SHA-256-Digest: 1Jc61v0bGhHx5bbGQDGvKEpdd5vbu0QfSW8xk7ZyzSM=
+
+Name: reference/api/jquery/images/ui-bg_glass_75_dadada_1x400.png
+SHA-256-Digest: ESPP/030K8+gElUbzXYoxU04bfCVW7YhhXtREZnYqrE=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/OSGiLauncher
+ TabGroup.html
+SHA-256-Digest: nXdGtHDyZ2AlI2JZ4g31jPRyuEhaGDb2FDlUPIf8IUY=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IBaseModel.html
+SHA-256-Digest: Gh18/3WoJd/W4zizfQE4bvD6n42Ya20jE4t2b4wgzyI=
+
+Name: guide/images/launchers/launcher_eclipse_prototype_configuration.
+ png
+SHA-256-Digest: 5pk6/SSVZSt24F19f1vGUqR6QFWlxx2DUtGm/UqZtCg=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginBase.html
+SHA-256-Digest: Q+77sgQtowTKsHQOLN4yI0oLV/3nebWoaf0GJmsKH8U=
+
+Name: reference/api-tooling/applications/analysis-application.htm
+SHA-256-Digest: KX9WMhc6gDkZlkOa5koheQLMgy6OBQjxgVxJuoDuVBQ=
+
+Name: guide/images/plugin_editor/new_extension_wizard_2.png
+SHA-256-Digest: At8HtwllCgMF8u8FahKX98D90iKWUoWjQcd76GiQ2kk=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/JUnitWorkbenchLaunchSh
+ ortcut.html
+SHA-256-Digest: x+EUw0Bcz4IUihU6N9lwowOTJL0ESwf9xPL+sstL4G8=
+
+Name: guide/images/launchers/launcher_equinox_arguments.png
+SHA-256-Digest: sMWufGWo6IEm+oJHiavUbIQMM3jQxOiev2mTNz1dRAI=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IBundleClasspathRes
+ olver.html
+SHA-256-Digest: 4pX4JoISbCENXJH1dcbSQJjjYlmDD0WUbW8P/p6Ehb8=
+
+Name: guide/images/target_shared/edit_target_arguments_tab.png
+SHA-256-Digest: dgp5MucnbuVWGGIrXg6VTv7wcgXMsMwEwD42b88ibOQ=
+
+Name: guide/images/simple_cs_editor/section_sub-step_master.png
+SHA-256-Digest: mX5FTnVtqX3RyaBJXs4l3itBuhUEukWRq+lw0m/k6Jo=
+
+Name: reference/api/org/eclipse/pde/launching/class-use/OSGiLaunchConf
+ igurationInitializer.html
+SHA-256-Digest: 3zyXrAn8tpA2gazMBzQ4nfXnpJ1fXx2VytmBmIjJzpw=
+
+Name: reference/api/org/eclipse/pde/ui/IPluginContentWizard.html
+SHA-256-Digest: tuQhOhBAL3lj4XiOSQ3njCK30M5jKHYJyxcTZ2av13w=
+
+Name: guide/images/plugin_editor/extensions_body.png
+SHA-256-Digest: ztAO87qnYw4LpUGvNkdmBOZTQXQxoJgWYBIufHSZ+cA=
+
+Name: guide/images/composite_cs_editor/section_task.png
+SHA-256-Digest: UvxKSc4FSSLQctndgdE+d0FSMlbQZjGDeZHD7bNETRQ=
+
+Name: guide/images/export_wizards/plugin_available.png
+SHA-256-Digest: 0BLg0eXtYcU87Uz9NY4j+jDEtagHVI/bhe9IU5pZynA=
+
+Name: guide/images/new_wizards/fragment1.png
+SHA-256-Digest: NEUmD4YLFAS0/bvhX7QNudOhdkjHDh9H+hfLJxFmlmI=
+
+Name: guide/images/launchers/launcher_eclipse_prototype_buttons.png
+SHA-256-Digest: Kw/qOHjYvyk9kPL1Y7LJfjZHgbOh2koNoNgoGtN4d90=
+
+Name: guide/images/site_editor/map_managing.png
+SHA-256-Digest: oHjOZuR05IE/s1/wjxDNRQutw3q803MZ3TOJvuhNZao=
+
+Name: guide/tools/project_wizards/plugin_structure.htm
+SHA-256-Digest: JTUSoI9PGAsy1vLUy1AUL38jBtuEtZOn7xFzBauVO1c=
+
+Name: api_contexts.xml
+SHA-256-Digest: eseWOdoHD4K+eKUqVjKKF9FUKZ1rPN4hnJQz22cCaU4=
+
+Name: guide/images/schema_editor/seq_sc_obj.svg
+SHA-256-Digest: IV7clla7B/MMTGbRhdH98rY3cT+iDAVoZqvPSKe3ekI=
+
+Name: reference/api/org/eclipse/pde/ui/templates/RadioChoiceOption.htm
+ l
+SHA-256-Digest: LCEs+QTbRvCln/2c/cw1Gh+8gIz/+FIlzHBnyR1KZco=
+
+Name: guide/images/schema_editor/section_extension-point-elements_1.pn
+ g
+SHA-256-Digest: U8O2w+yly2GREptz/G7ektiLwQLV5TWLRR5qBnyIaXI=
+
+Name: guide/images/views/plugin_dependencies_flat_callees.png
+SHA-256-Digest: ylTol4n25PpMX8yDjwoFsclJSLMpy81eavFoEW8sWQY=
+
+Name: guide/images/plugin_editor/public.svg
+SHA-256-Digest: 1fC9HzTU/CvOEdlPpRoXmXZ3jqGKBaQ7IU7NJMTp4XQ=
+
+Name: guide/images/simple_cs_editor/wizard_register_selection.png
+SHA-256-Digest: m3czcdBqyKE21OOdPGDTzWFTzqLdgOoP2qcmGyOGcn4=
+
+Name: guide/tools/editors/manifest_editor/editor.htm
+SHA-256-Digest: /k5pKCaxoVg/sSaOloB0pv0nDhVLuMeGIMaeIpQh8Ok=
+
+Name: guide/tools/import_wizards/import_features.htm
+SHA-256-Digest: 6UyZcidwRNO4zwwDfdbWohJm3vow6KzPeiMeckJumpM=
+
+Name: guide/tools/import_wizards/import_wizards.htm
+SHA-256-Digest: XNc57y3R6ioz0X1aBbXot7REzyl7DZx5KVO3nO9G4LQ=
+
+Name: index/_1.si
+SHA-256-Digest: iLSK1zEWW4H/KvA5HhfMrMkP3zJK0vZ90lCVGuvRMQo=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/EquinoxPlugi
+ nsTab.html
+SHA-256-Digest: ePZIC+9MXqsD3bK78hk+6AMRMKlM8K+UW3KEPkJ5bgM=
+
+Name: reference/api/org/eclipse/pde/core/project/class-use/IBundleClas
+ spathEntry.html
+SHA-256-Digest: SnBkMmVzMq5XlX4QYYuO6d8WtKJ0VwTLhLoB91GQbcw=
+
+Name: guide/images/access_restrictions/forbidden.png
+SHA-256-Digest: UHk8/n7MPn4wmogpNtvQIv9dV4wUN7Mn2zG4sdWZOtI=
+
+Name: reference/api-tooling/preferences/ref-baselines.htm
+SHA-256-Digest: yzbplUWOfoALV7oClva7syRrTcaPID1HD5oAADipSFQ=
+
+Name: guide/tools/target_shared/edit_target_locations_tab.htm
+SHA-256-Digest: iam5R8t5siKbnELGzECd203qsmEtD57YzVVTsU+zRgk=
+
+Name: guide/tools/editors/target_editor/target_editor.htm
+SHA-256-Digest: 249qPJElqoHr9JebqArx5vEuJ9C0cicbz8jw1gCoh3c=
+
+Name: topics_Tasks.xml
+SHA-256-Digest: pykLPteD8LMNK2O0cHlyyX7ylLFRiDG4ZUH+69HIUQI=
+
+Name: tasks/ui_import_from_cvs.htm
+SHA-256-Digest: 15kkr5WaeLe+iDNxC1DL4bX+SZQPKi/9FfKwJXRKS14=
+
+Name: guide/tools/launchers/equinox_args.htm
+SHA-256-Digest: Ix1Ul/PA+T6rIagZnRx+4+cCESB26NX1+Ipg23N0c78=
+
+Name: guide/tools/editors/schema_editor/editor.htm
+SHA-256-Digest: gepcm2n4HkacDnSbWoV8PxGjtZAjx92gJ5HWMUx3SZg=
+
+Name: tasks/pde_version_qualifiers.htm
+SHA-256-Digest: hVM4Egp0Dy6CARSObfgMMjm19q74Yud7yiRctK3FK24=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginModel
+ .html
+SHA-256-Digest: etFlm60QY8RSlVEyXatNL/PnKDvlVc8eWLfK6e4sILo=
+
+Name: guide/images/views/plugin_dependencies_state_status.png
+SHA-256-Digest: JzhZjJHxVH098+3lSF2jsbXf0/kXOZJV1v9PNs2RCbE=
+
+Name: reference/api-tooling/wizards/ref-api-baseline-wizard.htm
+SHA-256-Digest: GT7zv8tBhqlFHGv39QRPm78wvc2E7AXerx/2Rei7zKU=
+
+Name: reference/api/org/eclipse/pde/core/target/ITargetLocation.html
+SHA-256-Digest: 8bYTNoYq7R9NPATNt3y7j/U9Yip0NGr98pZJ293qL50=
+
+Name: reference/api/org/eclipse/pde/launching/class-use/EquinoxLaunchC
+ onfiguration.html
+SHA-256-Digest: 7CBwauCtayU025lOf7dNbwzLupA2FYeinKiD/gzfuxo=
+
+Name: guide/tools/editors/feature_editor/included_features.htm
+SHA-256-Digest: kkotY8jlChPsmk2tA13BybccheTpAeXRrwa/dHORTnk=
+
+Name: guide/images/schema_editor/att_impl_obj.svg
+SHA-256-Digest: 1AgILC0L4lEsK4hf5TNGx/zMrvQN0PdAyi6e+Q715pY=
+
+Name: reference/api/org/eclipse/pde/core/IModelChangedEvent.html
+SHA-256-Digest: IRw0ZmHHFOoyp1GeuEMs+WLkK5ueoeUcRRMYtTpyoQ4=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/OSGiLaunchShortcut.htm
+ l
+SHA-256-Digest: m7ydYNx+wSqQKcvaFL57cgWo+jeuAB8VfTKwbfzENCk=
+
+Name: reference/api/org/eclipse/pde/ui/IExtensionWizard.html
+SHA-256-Digest: xX+3bqmZZr1lItIzDvsHEagGGpjNn0lQMY8DUDrQD7k=
+
+Name: reference/api/org/eclipse/pde/ui/templates/package-use.html
+SHA-256-Digest: pZCq7l90+kmDFW4WrUgYV46Xw86IZhb7BPz+Rh5+1jA=
+
+Name: guide/images/composite_cs_editor/section_content.png
+SHA-256-Digest: +OU2WDIvmnLgyV+P1rddfREC7GbjbIPDdEPMc6JVbzQ=
+
+Name: reference/api/org/eclipse/pde/ui/IFragmentFieldData.html
+SHA-256-Digest: /santgaoFkXPvYPG6KcvJepIzHAnWoF0NGELy70CVBQ=
+
+Name: reference/api-tooling/images/api_options_analysis.png
+SHA-256-Digest: dofDxLE3vF1DHI6Snm08+CMnq64iQurtAJRcHiSP1w4=
+
+Name: guide/images/import_wizards/feature_import.png
+SHA-256-Digest: m9qmOSl/mx/+3b1Y1NvLUScL460KXVSqU3U6N220bYk=
+
+Name: guide/images/composite_cs_editor/cheatsheet_taskgroup_obj.svg
+SHA-256-Digest: 344uKiZ1kYjo9SLvVU3NCBmh3y+guWYyO0ROQfxt3a0=
+
+Name: guide/images/simple_cs_editor/section_introduction_view.png
+SHA-256-Digest: pMOK3uB0E1+/v/BYjPE6HI4sMjwJ8duYgYpESsubW+0=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginExten
+ sion.html
+SHA-256-Digest: AdgpBv7XOKeeoZlLFFnbrbIfBD5OdXnOMcmmpl7U1uQ=
+
+Name: guide/images/simple_cs_editor/dialog_composer_master.png
+SHA-256-Digest: FvjxtfSbRNUhCXcFV1kcZydUP5hJp9E5DW9+uowRKsQ=
+
+Name: reference/api/org/eclipse/pde/ui/IBundleContentWizard.html
+SHA-256-Digest: GId6ZSXVQnX9/JKdSrgszD02I6KMyTuvfOM7IOdooRY=
+
+Name: guide/images/site_editor/archives_description.png
+SHA-256-Digest: gDLZZxuXSMF/TBf4E3zzjPij2jWM7yWvlya+9GOGFQk=
+
+Name: guide/tools/launchers/prototype.htm
+SHA-256-Digest: SO25t7lloHYDRWfKYKc7HJFMkBGdyAwg2PcT7jfbg2A=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/EquinoxLaunc
+ hConfiguration.html
+SHA-256-Digest: oMwkqMNRpXobm7kbzUmAxyx1qU0DxGkT7LW7VJjWwpU=
+
+Name: guide/images/target_shared/location_add_site.png
+SHA-256-Digest: KkdKdJQorw8H/FNqD/xye8BJUi1goK+Mr/w2OgAF830=
+
+Name: reference/api/index-files/index-12.html
+SHA-256-Digest: HF8Dhtw98rHF86Q6l1gnySa0UzgDzSF3OrBDTb2gOGg=
+
+Name: reference/api/org/eclipse/pde/core/ISourceObject.html
+SHA-256-Digest: W6dXxz5+GvcrikkF1HfOnUaA0AmLuhLf+xrjoZWd6bc=
+
+Name: guide/images/export_wizards/cross_platform.PNG
+SHA-256-Digest: DMjcf5wDsN8Ki2JCoC+jzPD9oyGnZdl/XzCCJIs86Ag=
+
+Name: guide/tools/editors/product_editor/contents.htm
+SHA-256-Digest: W827Q7G/CLpW5Bikqd3+QSEGQe5yeDBM62AWi3aEnQM=
+
+Name: reference/api/org/eclipse/pde/core/build/IBuildModelFactory.html
+SHA-256-Digest: mvmaykyRCIwk6eODMsHENHtSghXRiMByC5Sikd5OitM=
+
+Name: reference/api/org/eclipse/pde/core/class-use/ISourceObject.html
+SHA-256-Digest: tyrJAGee/KUSvmd45Hvsw9WrTN+Qr2tqjeVEBl0it6o=
+
+Name: guide/tools/editors/manifest_editor/runtime.htm
+SHA-256-Digest: UXdV6TQEC+JjfbIy6AwIeItSg9E2HfsA5GEeTOkOpN8=
+
+Name: reference/api/org/eclipse/pde/api/tools/annotations/NoInstantiat
+ e.html
+SHA-256-Digest: 21kinMJWnftvJmP6FLlXk4X50RFti/eCr8OZ5alVxhw=
+
+Name: guide/images/schema_editor/section_extension-point-elements_2.pn
+ g
+SHA-256-Digest: UQOuHBajnWiE5g1edqEpwBqZ74hGJow7r8tbWWpl4Hw=
+
+Name: guide/images/plugin_editor/classpath.png
+SHA-256-Digest: j4I59V9sRBESF9mydV3AlRJ+R0P51lRAmnM4BqwNI+I=
+
+Name: guide/images/access_restrictions/compiler.png
+SHA-256-Digest: y0H87ZWCPTtCE++9woh3aydOBKqKmIVoUATl4G46KcI=
+
+Name: tasks/pde_product_build.htm
+SHA-256-Digest: ZdxV6IPNNg5FWnPG0DcWuB4CgVBpZMk73DBj27bsovM=
+
+Name: reference/api/jquery/jquery-ui.css
+SHA-256-Digest: OyI9XX7cCaSPChR9/X0h5Q5xV7/4K3Oc/TikjIu2Qv0=
+
+Name: guide/images/access_restrictions/hidden.png
+SHA-256-Digest: hJLHNYzVIe8oXqYBsLkKHDPWNm1ddRseiTb7kx+qsMg=
+
+Name: reference/api/org/eclipse/pde/launching/IPDELauncherConstants.ht
+ ml
+SHA-256-Digest: DHTTNHQnG1DBTc2RR1JwSYZr+pIiQH0BexHSt/F2xgo=
+
+Name: reference/api/org/eclipse/pde/ui/templates/IVariableProvider.htm
+ l
+SHA-256-Digest: n12LsPkooxcvlTWB57qg+k7NuG+gFMBRqFxq0Ej2Wsw=
+
+Name: reference/api-tooling/images/baseline-qf.png
+SHA-256-Digest: 5wHh+QP7xyrDyvSmp0vYLv9MHs+UbDuMi1GAuH0JRA4=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/TestTab.html
+SHA-256-Digest: dF514s6zW6r1iYjW+tt8oYOaNy71DAZNkRJH2aIP9Es=
+
+Name: guide/tools/editors/site_editor/site_map.htm
+SHA-256-Digest: qmu0RdfZluZxazPCNQBxxqDUwk60myj5ft8mbT7k64s=
+
+Name: guide/images/target_shared/location_selection.png
+SHA-256-Digest: SCvKOOBHkORUtNGkFbvWQ8ECYxKJ+0sDjgbjFf8svEY=
+
+Name: guide/images/pde_actions/externalize_strings_substitution.png
+SHA-256-Digest: ZxLFe/RLmNznov1Uo+8fVygDK2LwGjyLVApr0/SuBZ0=
+
+Name: reference/extension-points/org_eclipse_pde_ui_templates.html
+SHA-256-Digest: S4lHEayec8heBjAed0S7Wh7R5UVbRLCQPfEm6HSax7Y=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginParen
+ t.html
+SHA-256-Digest: Dcnmydi1v7uCWrdazGxeGYwwNWzPyHet31NELHdPceM=
+
+Name: reference/api-tooling/images/usescans-pref-page.png
+SHA-256-Digest: wVjDshodJkQTmSI82rjLpR1QYbTqgjng5CZrZRYpC5A=
+
+Name: tasks/pde_source_generation.htm
+SHA-256-Digest: euKilUIcDXvUJ9MmqLOf6SmhTmg7GgZNwd3+34SCB/4=
+
+Name: guide/images/feature_editor/information_sites.png
+SHA-256-Digest: 3pqXM4epbN+3D2mZRZbZtgHKhuGbB/Kb1gdHpWESino=
+
+Name: guide/images/simple_cs_editor/cheatsheet_subitem_obj.svg
+SHA-256-Digest: zfqN/4TdnJAHHVPOKsAwAAMX7q7yAhi5OFBWvV0QwPo=
+
+Name: reference/actions/ref-pdetools.htm
+SHA-256-Digest: WXHoxEy/AP17MKBYIJfdEy3/iJb4s2rwn9JkHGsOodU=
+
+Name: reference/api/org/eclipse/pde/launching/class-use/EclipseApplica
+ tionLaunchConfiguration.html
+SHA-256-Digest: yxT6nbKQrRgMykcJ9vMKh7tF7nVJo87wQLP/TCzGOUo=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/MainTab.html
+SHA-256-Digest: Xde0NfRR5oyPWKQAa2B4cBgcB+w/DUkUYrWJxLcOriw=
+
+Name: guide/images/simple_cs_editor/section_help_details_link.png
+SHA-256-Digest: juEyQm7RGea382ZLt3wWt4ziP8p/wY9C/7Hs0ewdyxM=
+
+Name: guide/tools/editors/product_editor/editor.htm
+SHA-256-Digest: 113zj8JIzgbkbU/H+XI0FYJEyQIpyCBNk8nX0/V1Es0=
+
+Name: reference/api/org/eclipse/pde/core/target/class-use/ITargetDefin
+ ition.html
+SHA-256-Digest: AhM5Trqg150QUY0AmzAlHB8c4bI4U8MVEvMWI+aUS58=
+
+Name: reference/api/jquery/jszip/dist/jszip.js
+SHA-256-Digest: zAHmn3j//fnqCh1qNVwjJLQ1HIO+8ApZPeyKgM7+bbE=
+
+Name: reference/api-tooling/images/api-use-pattern-wizard.png
+SHA-256-Digest: zaeqLuevtYOT3CWS08MP914mWoKgYwlFSS+lHpXBTpU=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IFragment.html
+SHA-256-Digest: jkQRSy6krAog7or8wUjb0nPncyEoLoZiN9L3INC4RMY=
+
+Name: guide/images/simple_cs_editor/cheatsheet_intro_obj.svg
+SHA-256-Digest: FQXufHzyY/4+wMqD4OK/fYa6Ev6fnbqxL1kSLRSW568=
+
+Name: guide/images/product_editor/overview_testing.png
+SHA-256-Digest: adx2Pq+KYZPJF9xyx9F6LJU5Ao7EYtl+cCPTqgOdPvs=
+
+Name: reference/api/org/eclipse/pde/core/target/ITargetDefinition.html
+SHA-256-Digest: 61mpuzaPbl2rNE3VrtnJrwfLc6WH8K/Rx5hT+Jq1RGs=
+
+Name: guide/tools/project_wizards/new_feature_project.htm
+SHA-256-Digest: gnZkjf9UPi2fyZ1hC1zEkhyZvzpw0Cy/jwUUAUsqC/U=
+
+Name: guide/tools/editors/schema_editor/page_schema_overview.htm
+SHA-256-Digest: MmeQEOijwcJ9VJKhgDaLvSTKpQzubzG30Ibgo1KRh4Q=
+
+Name: guide/images/views/perspective.PNG
+SHA-256-Digest: 2XcR3du3q04FGyu/OTD/bG9XiD4DnmY0zuPiIJZQxhc=
+
+Name: guide/images/preferences/plugin_development.png
+SHA-256-Digest: I1oCiwK7swkf5XkXtDluOrRjpK7q9tzq9gMG7M0e6vI=
+
+Name: tasks/pde_controlling_output.htm
+SHA-256-Digest: Hhn842xaNZFxTUeGduIwidPktD7+g9iOfxfB5LsFnMY=
+
+Name: guide/tools/views/plugins.htm
+SHA-256-Digest: V7AlgJW+j0yYNc+jg//A0WlS7zHBWtlx6iJ+KI7IDjo=
+
+Name: tasks/pde_plugins_build.htm
+SHA-256-Digest: gmnIx3AOOcgzKzfn0Jo6DY/H74bVEcHpJxtF1Mfnjco=
+
+Name: reference/api/org/eclipse/pde/build/package-tree.html
+SHA-256-Digest: FY1U3LdCZPiQDUx+6n6BLG9keTSz4nm9uBzodAgS5XE=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginReference.html
+SHA-256-Digest: z/BRqmfCUJxUHGk9h11OT9qkqKXxfrjYu9vuGukhIrY=
+
+Name: guide/tools/target_shared/edit_target_environment_tab.htm
+SHA-256-Digest: HDRJuw9MkPT80eirYxUHP251cX9yy6cf1PVfEE4Pfvs=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IClasspathContribut
+ or.html
+SHA-256-Digest: 7VxZIB5bvYOQGo7vhdtvb1KDX4rzWKb/Rfm4jUdatFE=
+
+Name: guide/images/preferences/compilers_build.png
+SHA-256-Digest: xM7quPfdOCCeWj3urjKGq+L3elZgdqPGsB/O5VQuASM=
+
+Name: reference/api/org/eclipse/pde/api/tools/annotations/class-use/No
+ Override.html
+SHA-256-Digest: Zm2EroEqvavZxxVRnWozNtN2fXV33lQQ8AfemxqA3aA=
+
+Name: guide/images/target_editor/source_page.png
+SHA-256-Digest: Hl0qT869zNvylZKIzzvDi37J9SfQV9fkZbGBU3lJWfU=
+
+Name: guide/images/schema_editor/section_attribute-details_2.png
+SHA-256-Digest: RSILceNLPhkv9pmt09ejx5R/FyAr6j8HQdLuYzOTxaI=
+
+Name: guide/images/new_wizards/new_ctx_hlp_wizard.png
+SHA-256-Digest: m7UpCAQBbpgbZgoU7Nm2pXmsIdFUt1f3gAx+68C2CVk=
+
+Name: guide/images/simple_cs_editor/section_command_details.png
+SHA-256-Digest: MzdfdHJ8lY+lkyI/sDLy61YSbYEWh54s6krscu9/SS8=
+
+Name: guide/images/schema_editor/section_schema-inclusions.png
+SHA-256-Digest: BcoVaGpeXZNk1g2tZvopsr+QJSyCoiY3aiL9LDAX+IM=
+
+Name: tasks/api_tooling_setup.htm
+SHA-256-Digest: k4Yfsk+KVfUliN1eEPCe5iFzf+uwrU+hmlg5qGU4ceE=
+
+Name: guide/images/new_wizards/other_category.PNG
+SHA-256-Digest: Gr10jJVWkgnLuQroB0SEdaEAfo2xWF4zBQA6yUt/Amw=
+
+Name: guide/tools/import_wizards/import_plugins.htm
+SHA-256-Digest: JLz8BWV7dTvfTDlQ/sgRnUdxJBjIf0Rs0H0EByVFM5Q=
+
+Name: guide/tools/launchers/environment.htm
+SHA-256-Digest: nvmd40NFMB90QruC1alv/CBJ5KSiFn27u3oSCCiimtc=
+
+Name: reference/api/index-files/index-21.html
+SHA-256-Digest: WrXIROUIyr0RfrXvqkz4UNkiiolDQf8lve+Ol6EmCJQ=
+
+Name: reference/api/jquery/images/ui-icons_2e83ff_256x240.png
+SHA-256-Digest: OK5KAaL2Tv30hg1oWqhYwbbn++C9EpxqudbasWYJLXs=
+
+Name: reference/api/index-files/index-20.html
+SHA-256-Digest: QUGSyq+Bwr1HGfo97dp8EZLzkDRaDXd4YEWBF9IWKis=
+
+Name: guide/tools/project_wizards/new_update_site_project.htm
+SHA-256-Digest: bKTR7lTm6AfSkazG6TppdrGKj9iLn3HcKnGzryVQmjI=
+
+Name: guide/tools/file_wizards/new_target_definition.htm
+SHA-256-Digest: Ffq//r6PlH1JIvvR0QXmCAZmDSL2nj+vu96qe1B3MT8=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginEleme
+ nt.html
+SHA-256-Digest: KPgic8ZUPvTtcUh4uWpV10wKtjwbsAcu2w9FA65jxfk=
+
+Name: reference/api/org/eclipse/pde/core/project/IPackageExportDescrip
+ tion.html
+SHA-256-Digest: aU+QFvVu6t1CTqYFkA6sSUEbhS8LGUFHPm+iCgceJ9c=
+
+Name: guide/images/simple_cs_editor/section_help_details_id.png
+SHA-256-Digest: GDzB+BD2r1/FX9wHMQx9ga7iQO9h9NK7wJe/unNJWas=
+
+Name: guide/images/new_wizards/feature1.png
+SHA-256-Digest: 8ruzjDZyPSfD53UbAyz2MhjETha0JSYXPdr1yYJab2A=
+
+Name: reference/api/org/eclipse/pde/ui/templates/BlankField.html
+SHA-256-Digest: J+FBT5RlwIK3lZJB9PIq9/988/KRPH2E3zvxlUIdp40=
+
+Name: guide/tools/pde_actions/convert_projects.htm
+SHA-256-Digest: WbVrNuGt9Os/znZujFsYXrNrYc6In6GCD2Z4TTxCEr4=
+
+Name: reference/api/script.js
+SHA-256-Digest: pHPfkvqQP2fD6L421q23l5CDguOY26qq/2ay8jURg7Y=
+
+Name: reference/api/org/eclipse/pde/core/IModelChangeProvider.html
+SHA-256-Digest: ZQLqEImDcyh30KQz1YuiLT6J0FozhHj2DkSu+1H7sgg=
+
+Name: reference/api/org/eclipse/pde/core/project/class-use/IHostDescri
+ ption.html
+SHA-256-Digest: QnVCmx9q4tlrItPtgl8CzqK6poXDauaQ+3cPk8YKqag=
+
+Name: guide/images/simple_cs_editor/section_step_details_2.png
+SHA-256-Digest: t6bKixeNOXczVz3CQhLIUbZD+3ZsTPF8Q6mgTTXqUfc=
+
+Name: guide/images/toc_editor/topic_details.png
+SHA-256-Digest: ndy2F8glZNTBEEH8A4Fg6m1Y43/pQMO/2TL4HSQt+Mo=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/ChoiceOptio
+ n.html
+SHA-256-Digest: n+VCuq0sBdh/OM+FvY0tO0h/2BKZ215t6KSQv27WfsI=
+
+Name: guide/images/access_restrictions/discouraged.png
+SHA-256-Digest: zDz5Iztp2m/tYIen0RfOJcBn+OSsVDT4XekXgkjONEY=
+
+Name: guide/tools/editors/feature_editor/dependencies.htm
+SHA-256-Digest: 12DuDli/FC5YwmWREW1QOL5l6+nbC3BQRs3FoUvdgqs=
+
+Name: guide/tools/pde_actions/update_classpaths.htm
+SHA-256-Digest: PlmNVz85esBGCsDRWpEQbr9XY5rjuAts0tndWz0nhhA=
+
+Name: reference/api/org/eclipse/pde/api/tools/annotations/NoReference.
+ html
+SHA-256-Digest: D8TT0v7gzpW+VUjol8cr1o55LIT7DCvQeyg8a9WHtJ8=
+
+Name: guide/images/target_editor/environment_page.png
+SHA-256-Digest: SgeqE94cllMXuEncdexMD4qsP26QG73rMvKoZh6ouIg=
+
+Name: guide/tools/editors/manifest_editor/extension_points.htm
+SHA-256-Digest: aaPXwb+bd3VtbqOQBg4wXJW/yHBYbnj6g/3OqlAHaUc=
+
+Name: reference/api/jquery/jszip/dist/jszip.min.js
+SHA-256-Digest: q0fD7M95bHPeQjP4P4ObIrdsReBYqRQxGRoUw26V8qI=
+
+Name: guide/images/feature_editor/features_details.png
+SHA-256-Digest: NPnMTmvVnIOWolw9uGp7SdRgPrd6r8YotrbHIA7dW7U=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/ComboChoice
+ Option.html
+SHA-256-Digest: wdqQIzv6FK/bCD0SFqGwQLA2iuBcpDBzxAiRhI5EvxU=
+
+Name: reference/api-tooling/images/filter-dialog-qf.png
+SHA-256-Digest: ZwqZ2aHsFr6EEPxmz3LFbLnXSZNLlr2xymIKZBJFdc4=
+
+Name: guide/tools/project_wizards/new_plugin_project.htm
+SHA-256-Digest: Uozo6TvdI/vujib4IY/0RHHw+7LSKhqb19EGV6G/7og=
+
+Name: reference/api/org/eclipse/pde/api/tools/annotations/package-tree
+ .html
+SHA-256-Digest: wfEcl2M15FFmwOxnMaViDQgPAu6i5w6KSHBxjVWCBw0=
+
+Name: reference/api-tooling/propertypages/ref-errorswarnings-prop.htm
+SHA-256-Digest: 9wHYfcr+dIYxgy01FmPdmKWuHUJ4cDyeYuzz3Ar/tnE=
+
+Name: reference/api/org/eclipse/pde/core/target/class-use/ITargetLocat
+ ion.html
+SHA-256-Digest: gBSZvBf74Ai0UJL8Mk8m3J0BicFJJ8TJKly5Xo1GYc0=
+
+Name: guide/images/new_wizards/feature_explorer.PNG
+SHA-256-Digest: SN5GguwOo4XOSjnQZvO4+Yb1nWJHpfi/NSbWvtHb3jM=
+
+Name: reference/api-tooling/ant-tasks/apifreeze-reportconversion-ant-t
+ ask.htm
+SHA-256-Digest: ds0k2sEQISrq89pCmWvs/UhLiZzkuQEjD46+zM5hXi4=
+
+Name: guide/tools/editors/composite_cs_editor/editor.htm
+SHA-256-Digest: +kPphOw+aAvui4MgXlcUlBRcvHv1TCwCR95oTZenp9w=
+
+Name: reference/pde_builder_config.htm
+SHA-256-Digest: l8HnEWZ2Fvt0D8+kqD1QGhxj0oCDGfsRpuoSM2GK8Xw=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/EquinoxLaunchConfigura
+ tion.html
+SHA-256-Digest: vfXkoAnWsKLaSB1xemZ/3TN/wsb/aIXwA/PX2g/ja+E=
+
+Name: guide/images/import_wizards/import_categories.png
+SHA-256-Digest: yZ1NrjluK0d7mYjGQ0ZgQiAViHwDHPEse6vZmMri+HY=
+
+Name: guide/images/schema_editor/gel_sc_obj.svg
+SHA-256-Digest: J6WvJZP5ef+vPmD0ksSy6ct6zRQm3FJ4kXR8nmgJkZ8=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/MainTab.html
+SHA-256-Digest: CblgoQsB06ctBr3TG3h9esMe4yY5EJeSvD6O2UxX6Ac=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/TestTab.html
+SHA-256-Digest: qIxBI0T+oWHRwIPR/pls4h42PZXC3fLEAcUR+NeDnmg=
+
+Name: guide/tools/file_wizards/new_schema.htm
+SHA-256-Digest: /pp7uoL0N+vzth9R6dqxN/JlN8MK51/YehBYoV66sj0=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IEditableModel.html
+SHA-256-Digest: yjba4cXzDHWRMT0uJSNNTZMGq8jONbxzZuu4e7wzZ5o=
+
+Name: guide/tools/editors/simple_cs_editor/section_introduction.htm
+SHA-256-Digest: M4smk+c3aBlcM3/t3HbncwWqipsvJEqJtHXwMWjfZQ8=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/ISharedExten
+ sionsModel.html
+SHA-256-Digest: Wa/EOEeahOH8jpJrmbFjmw2R+7qOvHM12JGLGwfolF8=
+
+Name: reference/api/index-files/index-7.html
+SHA-256-Digest: Uw+X8EPs9CNfOztsn2bz02f39yjp8GcYqG74duHbNo4=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IIdentifiable.html
+SHA-256-Digest: 69DskCRuZ96uViqLabmGFpy3PiKfOGP0FVgdTUraaUI=
+
+Name: reference/api/org/eclipse/pde/ui/templates/BaseOptionTemplateSec
+ tion.html
+SHA-256-Digest: +bsP9yjUXvrsY2as0OD3y0G4jiewnsQkXE1PAaYAOZg=
+
+Name: reference/api-tooling/api_javadoc_tags.htm
+SHA-256-Digest: JXlppB7noNxd7FLQwKNnn4tBuUg3V1twdM/mzISVCnE=
+
+Name: guide/intro/pde_overview.htm
+SHA-256-Digest: rwhFMrczIdMsErhJOxcR+Ax0lASfT1UgyQoUjSoRJpI=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginLibrary.html
+SHA-256-Digest: XWcyPI7K3WO6FcTraImEVXrU7X0ti/7VEpm+SGGh9Xo=
+
+Name: guide/images/tasks/import-from-plugins-view.png
+SHA-256-Digest: BWIIeOIs+WSxD5NfMKkA9qj8r2TjYENM7yA3quBVcQ0=
+
+Name: guide/tools/file_wizards/new_cheat_sheet.htm
+SHA-256-Digest: d8NRBioHo1pmDXQXvwPUQEH6ECp8khXzyUeUEDyGME0=
+
+Name: guide/tools/views/image_browser_view.htm
+SHA-256-Digest: 6KzxMrvGRMts3nMq6dJ0cy/JrvKy+ldwfrblylMu9q4=
+
+Name: tasks/api_tooling_remove_filters.htm
+SHA-256-Digest: PrHX77yQTl2n7bm3hkbj/QE1JkjS2KI6HIymQx1ZGio=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/IVariablePr
+ ovider.html
+SHA-256-Digest: hYzEj48f+RjMfoCo+adWmL8kne8DV+2iQO26yLL+RqI=
+
+Name: reference/api/org/eclipse/pde/ui/target/package-tree.html
+SHA-256-Digest: +hU/NEPy/kNgQT3STVRKx58iT8fhYP7F0UZbYG7BO+M=
+
+Name: tasks/pde_p2_buildtasks.htm
+SHA-256-Digest: rQfY+zsFwbMMxpFtYNDFwomw8RBS8vwFU1joXb3mcPY=
+
+Name: guide/images/new_wizards/user_assistance.png
+SHA-256-Digest: VkALSNxRngyTiHiq2nT8algKAYh+3VwqSRw33RHTdss=
+
+Name: reference/api/org/eclipse/pde/launching/package-summary.html
+SHA-256-Digest: hvlckjzJJH5bJgIg1gZL2xfW1lS5oabsa/pOs+9Wprg=
+
+Name: guide/images/schema_editor/section_attribute-details_3.png
+SHA-256-Digest: NTL/yLdu+3aE9U9l8PlGO190iUWiYaIt3HE1YBS8JBU=
+
+Name: guide/images/views/target_state_view.png
+SHA-256-Digest: J8oL9MA7xXSE+fRtSkPutKDMtcON40GajCPSF30Yr3Q=
+
+Name: guide/tools/editors/product_editor/launching.htm
+SHA-256-Digest: tFR5SgnCi6eY1r7l8+dwVIiGn14QK5kACwxuRohBJK8=
+
+Name: reference/api-tooling/api_since_tags.htm
+SHA-256-Digest: BFqJStrIGsb2BU8+nKzDsidazwE0+/OlkVqmzd3ed5g=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IFragmentModel.html
+SHA-256-Digest: iyIbH2Kp1JGCbkCVc3t1hsqGNAhUeMZTxAvOCMCgcrg=
+
+Name: reference/api/org/eclipse/pde/core/build/class-use/IBuildEntry.h
+ tml
+SHA-256-Digest: 6sZPVZNx5y7+MznBMLR83NhDR6fEnu7r8NWfL3YRAmU=
+
+Name: guide/images/tasks/plugin_creation_wizard.png
+SHA-256-Digest: a3SIu4rpMSgEX1IWl2LYgejOKPJXRQHPflpbmXlWrcY=
+
+Name: reference/api/org/eclipse/pde/core/target/class-use/TargetBundle
+ .html
+SHA-256-Digest: wROS85h406j1UlVQU5R3Qr7N8PYAtYSxEc9zOMHFYt0=
+
+Name: reference/api/jquery/jquery-ui.min.css
+SHA-256-Digest: g2NEZNQAHCrrYJ4mHa3qmmawuuetKm4zlIbN71m/JPI=
+
+Name: guide/tools/preference_pages/runtime_classpath_properties.htm
+SHA-256-Digest: htCEd6rWgH8iMp6PjPCNw0wE5wzAm34Hxk4eaIKHF3Q=
+
+Name: schema.css
+SHA-256-Digest: 0276AEARSrj5pebRj+x0KCCYtkMrvpfzT5oVr6rT1Yw=
+
+Name: guide/images/product_editor/overview_definition.png
+SHA-256-Digest: W+YuIVndzmRrWyREBy3dhES5Oz/qi+XV71LezOVMj0U=
+
+Name: tasks/pde_p2_integration.htm
+SHA-256-Digest: LeqIqLfbQaUJJwj9J/iTnNOEvhMdS+MsNHfbQEn5Rko=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginExtension.html
+SHA-256-Digest: aeICNUGqQlbjdowey0QKxdm8L4WzubfHamlMvjXABV0=
+
+Name: reference/api-tooling/wizards/ref-apiuse-patterns-wizard.htm
+SHA-256-Digest: So65qpv9A0J+XRYM9t03obUKi4nc9GC/WDFiYFnzhF0=
+
+Name: guide/images/launchers/launcher_equinox_plugins.png
+SHA-256-Digest: FgKFqsPpg1jHlo6CLy9Uthg/a12GmeLAvUaP1kz0MUI=
+
+Name: guide/images/schema_editor/section_attribute-details_1.png
+SHA-256-Digest: qIlMHUdOT5og0o0cWUZ/bdjfWKq3+/ksQaPbBEIy/9Y=
+
+Name: ds_annotation_contexts.xml
+SHA-256-Digest: y8RPV29jo8YN9ebsqmeWPWa/7fFJgoGYxEYbFJdC8xI=
+
+Name: reference/api/org/eclipse/pde/core/project/IRequiredBundleDescri
+ ption.html
+SHA-256-Digest: NuhkFPMIHAfl69dfasEqRS2rsx4Ig+0K0LjNQscKVrI=
+
+Name: reference/api/index-files/index-6.html
+SHA-256-Digest: wjbf/g8SG6jvzhssVDDqOd9TxJNT/XWZT6pO35Rl4j0=
+
+Name: guide/images/target_editor/definition_page.png
+SHA-256-Digest: TAsXQq2J1V5JXA8sYZgH7nBcWf8QOJ/OVcEwuuq83Xw=
+
+Name: whatsNew/images/pde-api-addition.png
+SHA-256-Digest: uJ0tyTWEAQMeD3wxzEe0VWYHsXsnTGbLqi56Rz4e62w=
+
+Name: reference/api-tooling/images/api-use-pattern-wizard-package-page
+ .png
+SHA-256-Digest: kG1gEHJViDmM1s8vGaxFEy9tRpEqn1cb3JoUpGcRS+E=
+
+Name: guide/tools/file_wizards/new_product_config.htm
+SHA-256-Digest: uHv56hEOdcC0if5jD4ZLcYrjZykwS308whcmjUbgNWw=
+
+Name: concepts/update_site.htm
+SHA-256-Digest: DPYN3yQ5EaAyZEgzrtGbFcGN1XdkefPB4uV8N2dEyJw=
+
+Name: index/write.lock
+SHA-256-Digest: 2qoEDU2SMdERdhC69Qa+gtkSc9L4Qavow5CUQp79s+w=
+
+Name: tasks/pde_packager.htm
+SHA-256-Digest: 3ZJn5XZkzIF70qmtF/t/GyfNfPIwpOwEyu7a5rHmEY4=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginModelFactory.ht
+ ml
+SHA-256-Digest: xmOO776t0O5Rk34suyITGbHGQhfcJML/oJA/m0zkeN8=
+
+Name: reference/api/org/eclipse/pde/ui/package-tree.html
+SHA-256-Digest: KM4DvBaWOBEJUDaGH1M8IoMT6/DX8bMHlH0sYE/wvJM=
+
+Name: guide/images/simple_cs_editor/section_step_details_1.png
+SHA-256-Digest: KDsPJxhRX6R79BoXkB/LZkpcdQnsMsCyefeq0sAFxUc=
+
+Name: toc.xml
+SHA-256-Digest: PuoHK06OQXJtT7+CCEzt898hSwftqyiMi+ZNzF47atY=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/package-use.html
+SHA-256-Digest: 1ZWyDM7FkTfjLovZZ3gJJUL8cZHFFphfEXoQoE5nuiU=
+
+Name: guide/images/schema_editor/att_file_obj.svg
+SHA-256-Digest: J5cd/uakSpzMUELghUsGA/Yw373UzCg9ywNUCaQ7syc=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/OptionTempl
+ ateWizardPage.html
+SHA-256-Digest: EWb49qFcK6DeDu1WWGemkpP4RECyaJ+iX34ObU+qqAY=
+
+Name: guide/images/preferences/compilers_versioning.png
+SHA-256-Digest: PDKFu0/SNxNkRLcLQDsyGulncd1F7tGkpFeRaKl2iUw=
+
+Name: reference/api/org/eclipse/pde/core/project/class-use/IBundleProj
+ ectService.html
+SHA-256-Digest: etnybTsEOCskkqMkEm7rJJQZrGZ8K0dzb4nESSQcp4A=
+
+Name: guide/tools/editors/feature_editor/overview.htm
+SHA-256-Digest: glIpiCFZqvJDWWfCmj3JQj+qcibs6cqLo7sRTEXVtf4=
+
+Name: guide/images/composite_cs_editor/section_group.png
+SHA-256-Digest: d1kmIpFYfhxCEnFHsFoWIl3k4/LpdF1hlpBMFj6XGaU=
+
+Name: guide/tools/preference_pages/feature_compiler.htm
+SHA-256-Digest: vTBzLKi7KMmbQJugfG7P2XSj1RWBIhkEeE9VhmhLviU=
+
+Name: guide/tools/editors/site_editor/site_editor.htm
+SHA-256-Digest: MFLfCQlSPK80fqH8DZ6T6ikbWuPh5paWQS268GFtJPg=
+
+Name: reference/api/org/eclipse/pde/ui/templates/ComboChoiceOption.htm
+ l
+SHA-256-Digest: uTv6ZN6d7qkC9CBdLgpvIJKhRXE/8lGmijiwehzhhgk=
+
+Name: guide/images/ctx_help_editor/help_context_second_topic.png
+SHA-256-Digest: F4qjb1PMV2CMICP7hLFP9tq8RzUIIXJp6/efMHV9Xo4=
+
+Name: reference/api/org/eclipse/pde/core/package-tree.html
+SHA-256-Digest: NE12MFalapbCefm3FHPnZ5+BqYz0Nrkpg0EIf/lkKbU=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/ISharedPlugi
+ nModel.html
+SHA-256-Digest: I/q2UpF/EUAmzY+u6gwTzsZvEjz+tVgOJDpcXl6vhKY=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IModelProviderListe
+ ner.html
+SHA-256-Digest: KqbLd0pz3ezQuOjqVy3g+V0S4xJeT0svvgRhcXlZnd8=
+
+Name: reference/api/org/eclipse/pde/build/package-summary.html
+SHA-256-Digest: EhO5zYd4qONT0qN5kjVwNYQBJ8edN5+mqQa7eFfoGII=
+
+Name: reference/extension-points/org_eclipse_pde_core_targets.html
+SHA-256-Digest: ggkJ8RPsuJdmaxhEy/S7z1raHCdTAx7fHnCRHOsifsY=
+
+Name: reference/api/deprecated-list.html
+SHA-256-Digest: aR8gJgXfflYxyZKxJPqcxDDVgMcZmoQv32wmDVJXaxo=
+
+Name: reference/api/org/eclipse/pde/launching/package-use.html
+SHA-256-Digest: B24MgB6ZwQOLmHzccrnjoj3deIiLWik4O9Ba7ZB0QR4=
+
+Name: guide/images/launchers/launcher_eclipse_arguments.png
+SHA-256-Digest: 35FJxlBTWKbbyIkhchscN4ke1gErLXrkX6mLrD3U1pU=
+
+Name: reference/api/jquery/jquery-3.3.1.js
+SHA-256-Digest: 9eMrbt9032AEjFp6j6OEtC0f+p85vn5KyXa/2O2AwyM=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/TargetPlatfo
+ rm.html
+SHA-256-Digest: hWnSlaln9klbPwqAGKMVSpdBMM7BnWMWfQpBStbUtlY=
+
+Name: guide/tools/target_shared/edit_target_wizard.htm
+SHA-256-Digest: iGrNvkE2qzRnJXlxW1fqIubm5WG7GU8oQOZEjdnZj7E=
+
+Name: reference/api-tooling/ant-tasks/apifreeze-ant-task.htm
+SHA-256-Digest: h3FSJwWmf0lkjdSu+0D/Y+ai0qvlziJl/VciWpdmgww=
+
+Name: guide/tools/editors/simple_cs_editor/section_command.htm
+SHA-256-Digest: 4asZkuzsu+qbQ+wx1U4w9zLuLNHAR3o6VptyFmxZPPk=
+
+Name: reference/api/jquery/images/ui-icons_cd0a0a_256x240.png
+SHA-256-Digest: GJGIxh+ci8mGsplyAm8/7e7lwUVG1GVqLM5aLdhkx6g=
+
+Name: tasks/pde_rootfiles.htm
+SHA-256-Digest: ycWQnmO2bb/XhYGeCv6Ygzm3GIw7RZG72/akBEd45kY=
+
+Name: guide/images/import_wizards/plugin_import_for_existing.PNG
+SHA-256-Digest: oFG2j2e/jxG3Cx4zQHT+nIl75tJCM2GfkiBOfCoL7UQ=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginObject.html
+SHA-256-Digest: 0wM35YA8Z56MSKI17d1f3nEy51xI27kGHMdRkN03GBA=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/AbstractLaun
+ chShortcut.html
+SHA-256-Digest: KFvUTW4yYCQZWMR2vETfHAeqD2VGJRVF6rVigNSuQLA=
+
+Name: index/indexed_dependencies
+SHA-256-Digest: dRvUHaLRv260RYZJrG9pwgaLPO0hfOwbzcnqoLMSklI=
+
+Name: reference/api/org/eclipse/pde/ui/class-use/IFragmentFieldData.ht
+ ml
+SHA-256-Digest: b4qkpbDTJcQrfhcEwKH4VW1m7mvdGLyX1wyrsjwlp/4=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/BooleanOpti
+ on.html
+SHA-256-Digest: wCY1/VnhAVoMoEfAy49CpGprRRlAZxOweXMvVMqf/Jc=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IModelChangedListen
+ er.html
+SHA-256-Digest: Hffirtv7teEldQ20Cqb6Jio/Y3eu9IeKVEHbOhWLKDw=
+
+Name: guide/images/product_editor/launcher_ee.png
+SHA-256-Digest: YTSTFOTsm8flRKRf0HpRc4KoXTuw1h4+GJc/EAi+XE8=
+
+Name: reference/api/org/eclipse/pde/launching/AbstractPDELaunchConfigu
+ ration.html
+SHA-256-Digest: 3CRgyDRbuHm40849A1qgCoInt3l/wpQNYQTwarN7W44=
+
+Name: reference/api/org/eclipse/pde/core/build/package-tree.html
+SHA-256-Digest: JlEnAfBI1dX00bd+/nAi7hR51xWyFSALrpJBWywRC1M=
+
+Name: reference/api-tooling/ant-tasks/apiuse-reportconversion-ant-task
+ .htm
+SHA-256-Digest: YZVfjAfuKmRarKEWFfu+KwDwbnnl9PA54uoxWfZUdOo=
+
+Name: guide/images/export_wizards/product.png
+SHA-256-Digest: d/7yJCMCVBwrCsEvIKC76D19tu1mQFn681FDg/t0+ts=
+
+Name: guide/images/launchers/launcher_eclipse_prototype_reset.png
+SHA-256-Digest: XMKAnOct6pKMltlsM8k/8Y2vtWo+uKbl8ugho0I0CHg=
+
+Name: reference/api/org/eclipse/pde/ui/class-use/IBasePluginWizard.htm
+ l
+SHA-256-Digest: lh1eETUXtioSALy+yckLXmUhvEDIJ2II2DoBHKM5qwc=
+
+Name: guide/images/ctx_help_editor/help_context_command.png
+SHA-256-Digest: IVItairRUk4tEEe7KHpRpUlOZopHXxjbeCuUoRO6F7s=
+
+Name: reference/api-tooling/quickfixes/ref-api-version-qf.htm
+SHA-256-Digest: 2Hn5W+VxWWRmjR5qjD/ni+xESndmO2/qvbKMQU3Jp2U=
+
+Name: index/_1_Lucene50_0.doc
+SHA-256-Digest: AXkR7OoBOHBCfHUUcTD9Z98xsuKbXSb8tQ3YnocH8Pk=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/TracingTab.html
+SHA-256-Digest: 52n4ak7EFBk76IXF/h6eMTPvR59x0X+h0fy3p4kFABo=
+
+Name: reference/api/org/eclipse/pde/ui/target/ITargetLocationEditor.ht
+ ml
+SHA-256-Digest: Z2wozsKvrTYt0o31XPYg+vGLMxha+2HEUCBp8QurL1Q=
+
+Name: index/_1.fdx
+SHA-256-Digest: IxGBF0yjPs0rwy20FK3L040AX5IpLQhE/kkQS0HgCjw=
+
+Name: reference/api/index-files/index-19.html
+SHA-256-Digest: FYkgj0uPNyl4H0svNANuHFFgRiZMakfDsqPA3X5ZxF8=
+
+Name: reference/api/org/eclipse/pde/launching/OSGiLaunchConfigurationD
+ elegate.html
+SHA-256-Digest: w3nFeMoqkVn9kP5Pa/R5qfQBykgdf7UoyKV6ourdlr4=
+
+Name: reference/api/org/eclipse/pde/core/project/IBundleProjectDescrip
+ tion.html
+SHA-256-Digest: lHRLVCKEGo8V4qiIwM9rxGepp79SNOMGYH5VRKyPoAg=
+
+Name: reference/api/help-doc.html
+SHA-256-Digest: oOIauNfe/3/geIxg77PA3W5lzdOZMWBKgAbvUqyVh+4=
+
+Name: guide/tools/editors/schema_editor/page_schema_definition.htm
+SHA-256-Digest: WSe0Guo5519LPbANJYeD3L04bqJU/Zbb6pgI7K1uGiA=
+
+Name: reference/api-tooling/ant-tasks/deprecation-reportconversion-ant
+ -task.htm
+SHA-256-Digest: bXTyIzmJQHMblJx/kixIBwOAF6p5Jk9KtRbJtD7rcdk=
+
+Name: index/_1.fdt
+SHA-256-Digest: nABCVZhSvLKZsCfncqyjyJJ2cF8YOCdnJSG972oHmCk=
+
+Name: tasks/pde_compilation_env.htm
+SHA-256-Digest: DFmxXrYATyfSoUCCwXAAWtUg1kbgdYAIiOvZb98LFKI=
+
+Name: reference/api/index-files/index-22.html
+SHA-256-Digest: qRH8C8INYzR7bbBN2ZmejUXyOidIh7ViyW1dsHMYaic=
+
+Name: guide/tools/target_shared/location_edit_directory_wizard.htm
+SHA-256-Digest: /bFMiilk4KYDUEeGo2Jjo8AVxttDSKvqYWiJeA7IjHU=
+
+Name: guide/images/launchers/launcher_eclipse_features.png
+SHA-256-Digest: +BEl0+5jeOpOFpVwVQTxs0mK+LifHQ/QljSou8siuFw=
+
+Name: guide/tools/preference_pages/preferences.htm
+SHA-256-Digest: 0DsAzQdNK5GrQyaVzXCKD1B1uX87YrscirPO9AyCgWs=
+
+Name: guide/images/export_wizards/export_wizard_select.png
+SHA-256-Digest: /zx7+yif83LrLNmmy7TzZbMETRmt0g7kDPlaUBhQwNU=
+
+Name: notices.html
+SHA-256-Digest: LOOI/Ghy27rG4FCTl38K5Rya8QbMgyI5yPQsSzjRBdc=
+
+Name: reference/api-tooling/images/version-dialog-qf.png
+SHA-256-Digest: IwjBYUPgcvR9xhlR8dp/cGLMATU8TY639e77XvFL3Bc=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/PluginRefer
+ ence.html
+SHA-256-Digest: NTlLmDMXu3LKmYIPUIQ0lqVW9L/kvEfgAYZgCaTr91I=
+
+Name: index/_1.nvd
+SHA-256-Digest: wZNDQyj1SxQgS+F6pGIZNvFf9nlvIJ4tM04OBRMJSlo=
+
+Name: reference/api/org/eclipse/pde/core/IClasspathContributor.html
+SHA-256-Digest: GyA1pa2OrlhUXZ5BIQNOpBudY8XeTAw3fGPpbxF9y7k=
+
+Name: apache_style.css
+SHA-256-Digest: 89S/85u8M2Ypn65rbCR+LML49p0Z9DHNtUwtL8DuG1k=
+
+Name: reference/api-tooling/preferences/ref-errorswarnings.htm
+SHA-256-Digest: lIrTaWs8dQN3enzUfY31Prqr0nW3N1od6/DL5mnH16U=
+
+Name: tasks/ui_export_install_into_host.htm
+SHA-256-Digest: 7OdxZGWMJdoyHQ4yYi5+G0eGhvlI2AU4HA0v5JO/oOA=
+
+Name: guide/tools/project_wizards/plugin_templates.htm
+SHA-256-Digest: l2XV4mrY0VKz0DwqmTlLzy6ORKWp2YsHL1V1VmXtxVY=
+
+Name: guide/images/target_shared/edit_target_content_tab_feature_mode.
+ png
+SHA-256-Digest: jKOpK7qd84B+m2UEOGUUGIb7VRp/iE0CIfVYOTbpJus=
+
+Name: guide/tools/editors/manifest_editor/access_rules.htm
+SHA-256-Digest: CDmPuRhNo4XBtRTBqdmu7xtiCnxNnestAokiCE8hN54=
+
+Name: reference/api/org/eclipse/pde/ui/target/class-use/ITargetLocatio
+ nUpdater.html
+SHA-256-Digest: hFXoLIVQDsso5R8xw7d4IGmyYH/or86R5L7tNYWwE8o=
+
+Name: reference/api/org/eclipse/pde/core/IModelChangedListener.html
+SHA-256-Digest: vvFximgKCzwR/2I4WnWeh/bLtdcIcSbCd9Ml2VIf/zE=
+
+Name: reference/api/org/eclipse/pde/launching/package-tree.html
+SHA-256-Digest: tJLxGJAjP/1HH99bVn/uVO0mgF5vn2Q0cIKm9aUjWHw=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/EclipseApplicationLaun
+ chConfiguration.html
+SHA-256-Digest: euEI6ehaP0JvisxM7MTYUBC5yGz2sELa+IrPDswXTEQ=
+
+Name: index/_1.nvm
+SHA-256-Digest: nx+za3as+cEEuVXzWprCEUJY4Tm8jCldWwhdjtAZe6g=
+
+Name: reference/api-tooling/images/api-problem-filter-prop.png
+SHA-256-Digest: hVwxy32puLdzrRNIVJTiTervFfW8T8NalfuHv/CcGAM=
+
+Name: reference/api-tooling/images/version-editor-qf.png
+SHA-256-Digest: eQHhCjjRD0+RBfJvSizmaYqYi/abG4DOaPXcplrLpLw=
+
+Name: tasks/pde_customization.htm
+SHA-256-Digest: zKwOp8dZmL6tAUtDFGMKbz74CkX1APadJy01QOKRiIU=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/JUnitLaunchConfigurati
+ onDelegate.html
+SHA-256-Digest: JVsOSj0f0PMypf0+/jWY/XmzMajYhac6Yjyh5m/yLhA=
+
+Name: guide/images/plugin_editor/new_extension_wizard.png
+SHA-256-Digest: 9AxcaTPjzBPa7eweCV5AgiSrSPiTKuZPPUlZZF9Ha9Q=
+
+Name: reference/extension-points/org_eclipse_pde_core_targetLocations.
+ html
+SHA-256-Digest: eptozdJV3whuHeN0TczhT17D4+KE0VrovFOhRS8Y8ls=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/BlankField.
+ html
+SHA-256-Digest: y9ebZaGibyu9QrczA7LEWn+IvveLJPFrs+ovASjFOBE=
+
+Name: guide/images/plugin_editor/binary_source.png
+SHA-256-Digest: pTfy43qm49r3AUVnaqEH4E6HmWxe1F6MfSPtOZYKAfo=
+
+Name: guide/images/product_editor/launcher_program.png
+SHA-256-Digest: bvu7Ut5787s/19UKkQYd6FfvNYn0QwyBGPXkRTwsl8Y=
+
+Name: tasks/pde_p2_productbuilds.htm
+SHA-256-Digest: O/6EtlngDIoVleQOjPWE3WynopUOfDfRniTd8WmQEYc=
+
+Name: reference/api/org/eclipse/pde/build/Constants.html
+SHA-256-Digest: FoFqeyHUYHQcpr4Lczley1vPcEDyn8eoVFW5ir+hYDQ=
+
+Name: guide/images/target_shared/select_implicit.png
+SHA-256-Digest: qDCxhS+fwyXuaY8i7BVwTWd4wJ5fOupnKtE/s18eCrw=
+
+Name: guide/tools/project_wizards/new_fragment_project.htm
+SHA-256-Digest: bAIH9L0odeu+JkH6VKw3xh5Y8P+a/o5QdM1UZVwJRSs=
+
+Name: reference/api/org/eclipse/pde/core/target/TargetEvents.html
+SHA-256-Digest: EG3Xhy9aa85Ty9v5isNXjWQcEYvTxeKvQMveYhG3ZkE=
+
+Name: tasks/pde_p2_reusingmetadata.htm
+SHA-256-Digest: 4PSrxWiZ09QWFr4QwZ+YKgkgvaUAiH41ozuTy7qlAzQ=
+
+Name: reference/api/org/eclipse/pde/ui/templates/BooleanOption.html
+SHA-256-Digest: 8VgltDJ8CzJeA220lQDD1YFcN99+jwILxquqoz6dQxw=
+
+Name: reference/api/allpackages-index.html
+SHA-256-Digest: G4Kps8hv2vKG/yPWWLxi5YsHoSlK79luL3edfNCio7w=
+
+Name: reference/api/org/eclipse/pde/core/plugin/PluginRegistry.html
+SHA-256-Digest: m9xT6j1c2CO8rP5ONOM71sI9nOY6LUP6y6tbMmK+YDM=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/IPDELauncher
+ Constants.html
+SHA-256-Digest: pD+aKghr2ryChYc0aFTo1NPXC/tLrHb6CYrjjoo0rpk=
+
+Name: reference/api/org/eclipse/pde/ui/templates/TemplateField.html
+SHA-256-Digest: MaCKdwAVga23Bvxwxz5/cie6AhKfAZPKkIkMYz8EV8k=
+
+Name: plugin.xml
+SHA-256-Digest: OUXynCmRsHrdMTOgWBHDtsvoxpzeKmIf/zBlGQbkvmA=
+
+Name: guide/images/product_editor/branding_about.png
+SHA-256-Digest: EIQUaXKEeitXsYh5ZPVV1HKULfZc5L+fp9HvLR318+g=
+
+Name: concepts/fragment.htm
+SHA-256-Digest: xt6d3cHaQKb9MQtBMgAI0qAXeLhp7UxPzxPwBycPlu8=
+
+Name: guide/images/feature_editor/plugins_details.png
+SHA-256-Digest: zpTpx8IRNcJDVxQ7h1CRxFFg1L8xUURTw1bo6xHc5ZY=
+
+Name: reference/api/package-search-index.js
+SHA-256-Digest: etvzCB2ivYxurZgfajNWTj6iGXUXro5Opj4DGnmWzrk=
+
+Name: guide/images/schema_editor/att_class_obj.svg
+SHA-256-Digest: Fw4XuvmkQ0fyjZpu4OLwdSGByctohkhpv/rD6mnz3iM=
+
+Name: reference/api/allclasses.html
+SHA-256-Digest: czpbARwCbH5ugkOPCti8REw8TZkjbl2wsWGcRB6xrng=
+
+Name: guide/images/export_wizards/feature_available.png
+SHA-256-Digest: /7dvuX5HX2LtXrcgzs87fmAmMQspkgjy8ZjegrA+/vg=
+
+Name: topics_Reference.xml
+SHA-256-Digest: W9AsZLLdwpGGY/O09MdWGiOnuaCGS4mlnMomV7pqVzk=
+
+Name: guide/images/tasks/baseline_dialog.png
+SHA-256-Digest: vxqBjWWqf48t/YHTbtBby76+ZXHhR33dka7rvGHECj4=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/StringOptio
+ n.html
+SHA-256-Digest: 7ITN3RR4XrKYOPh8LKyFmeugL0b3db5JGe1jPYfLz0E=
+
+Name: book.css
+SHA-256-Digest: 9m/T0Dnl4U0u6PgmbdBlbggCYtRFqXDdqJMJdGPpfnk=
+
+Name: guide/images/access_restrictions/friend.png
+SHA-256-Digest: Rf5uRcds2RnyWWp3CcN7qDYkbSZjW0FFkjwPfgc/p20=
+
+Name: guide/images/pde_actions/convert_project.png
+SHA-256-Digest: 9DRqM7q+yPbWlRv8sNsgOm4yIq7wwxTQMB38R/JYoTQ=
+
+Name: guide/images/preferences/editors_xml.png
+SHA-256-Digest: B6x8dTUkCBA3DTvFXsAN1n9dJT8D+akKtsZn5tc4foE=
+
+Name: reference/api-tooling/views/ref-api-tooling-view.htm
+SHA-256-Digest: nnl2JCCxWGsOMqrKg8XYrXfQEc7nqZbtOjc15y3kOuI=
+
+Name: guide/images/preferences/compilers_features.png
+SHA-256-Digest: fW/MHOOdX8T+V3ejD6aixKS8vc5IeL8ORXXNCj8fDXg=
+
+Name: tasks/pde_fetch_phase.htm
+SHA-256-Digest: DJBP2ybX7oZ124L+uvZa8qxMqHXnR5qGDZvXgTHSpyo=
+
+Name: guide/tools/file_wizards/new_ctx_help.htm
+SHA-256-Digest: 2lPq7DoBF60F1sg/vnmaytjSV+fYzS2PoRAeSV6dJJI=
+
+Name: contexts_PDE.xml
+SHA-256-Digest: nNrb9wYboHBMtrLpAz20HSVoAlAQ5TGAqmlp9zb+cig=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/OSGiSettingsTab.html
+SHA-256-Digest: lO4+v8o1TGMRhyvQdnAmeU3gHIn3ymz8ZqmpgBk46Mw=
+
+Name: guide/images/target_shared/edit_target_implicit_tab.png
+SHA-256-Digest: NRXcsDrIBZxf9I6VMXnrP1gussdrpVw353KqmIwTORU=
+
+Name: reference/api/org/eclipse/pde/ui/class-use/IPluginContentWizard.
+ html
+SHA-256-Digest: hpcGiSA6sNxgGUqFyAL90jPS2tc1seeprLihRAoypYw=
+
+Name: guide/tweak.css
+SHA-256-Digest: Q31lPH0pIaQsHJ14LMA7Y7nko94mJCtdaGcjMY67sDw=
+
+Name: reference/api/org/eclipse/pde/launching/PDESourcePathProvider.ht
+ ml
+SHA-256-Digest: bqbIoRAH5q0XpaxVijDpsWKaLk8e8l8sIY5szb64P3w=
+
+Name: reference/api/index-files/index-5.html
+SHA-256-Digest: VoLYdmcLgPFb5wh03P6tGSq49B4cmdi4iiNpv3C55hA=
+
+Name: reference/api/org/eclipse/pde/core/target/TargetBundle.html
+SHA-256-Digest: 7bA8IezPUlPEF8POIhrtvVBGM8woJ8L3+QVKNc63BHQ=
+
+Name: reference/api/index-files/index-14.html
+SHA-256-Digest: wViVPES8hFZ6nBtWGxrKw7PAR5P8Uw+6GC+ORGNjWfw=
+
+Name: reference/api/org/eclipse/pde/core/ModelChangedEvent.html
+SHA-256-Digest: 5QAZxCUSkKcL1hD/gmAyj0nvWr/R9LsbWvl4L5pB6as=
+
+Name: guide/images/simple_cs_editor/wizard_register_cheat-sheet.png
+SHA-256-Digest: 0LxSvBmCUcCIS9EFEI9SBfyu/4I2zAuejCuQo6aukJQ=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginParent.html
+SHA-256-Digest: bb9GZgg2ZXbPg2bXWebX3Zay2e4xTWHE3aFdy3Xhe4Y=
+
+Name: guide/tools/export_wizards/export_features.htm
+SHA-256-Digest: waymMA/++P3eChIUu6JEppHlhCtutyiPyISDrtNSBZs=
+
+Name: guide/tools/project_wizards/new_feature_patch.htm
+SHA-256-Digest: /lcmGTMV4dvYIPiw7uu+isgjZtaRFlfppafbRxq18oU=
+
+Name: guide/images/simple_cs_editor/dialog_composer_details_3.png
+SHA-256-Digest: saifjUx5pGmKpgXEMye477u9m7RkhDEWipDptGlXTMo=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginModel.html
+SHA-256-Digest: w7qvd5KznEdYW2Vg4klErKSqzQh6FGAHPRvCRnkJ698=
+
+Name: reference/api/org/eclipse/pde/ui/IExtensionEditorWizard.html
+SHA-256-Digest: ReiaZ5mWrT5b3jQEwCHi4lcoJU15+RLVhmXgG+N9Bt4=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/Configuratio
+ nTab.html
+SHA-256-Digest: ccv8cQMJAY9JLXg64XxlIhyDObH9Egk/WvMxc98r6Ms=
+
+Name: reference/api/org/eclipse/pde/core/plugin/package-use.html
+SHA-256-Digest: LqIB+nehkXs/jKxP5uvJA6PJ4aSM9ijCOA9No5JTjP0=
+
+Name: reference/images/pde-tools-flyout.PNG
+SHA-256-Digest: g9TBu2Ih5c7HoGWsVMNJUYr71tMHIPLJqGYA6E5jdZI=
+
+Name: reference/api/jquery/images/ui-icons_888888_256x240.png
+SHA-256-Digest: TrsUGcEqW48lDyMBDHrsKYCT3LPu/HFxaK/bk6a0gM8=
+
+Name: guide/tools/launchers/common.htm
+SHA-256-Digest: gffXKUANsYO0DDoWX0NwWlAQ9580idgO+/7gWpWueiM=
+
+Name: reference/api/index-files/index-9.html
+SHA-256-Digest: JaU9W8zzAGPsMFEHIchibx9dRGoV57Hh2oR0E0xIhfM=
+
+Name: guide/images/composite_cs_editor/cheatsheet_simple_obj.svg
+SHA-256-Digest: p6XEStEIqOfkNgC2LuTpLqRkk5iLYVwW2BFnVNoxD7w=
+
+Name: reference/api/org/eclipse/pde/ui/IProvisionerWizard.html
+SHA-256-Digest: 1Z9aEvelsAskxaw42SHOVpMFbFH9o+nnhiQ8vULy/OU=
+
+Name: reference/api/allclasses-index.html
+SHA-256-Digest: /bMQzQiZQpa0GXKJchkA7HZ2xGDb0p7UpQorsEsjzFU=
+
+Name: guide/images/target_shared/new_target_wizard_template.png
+SHA-256-Digest: j4J641unHfIeX+OfLkpoFBVJ91t849DIKRtxIaFDdDY=
+
+Name: guide/images/new_wizards/bundlizer2.PNG
+SHA-256-Digest: DcW3eJPXHetuSefxjDTXJ51/ZfvN/8Kv6Yq0pQ3yHqk=
+
+Name: guide/tools/views/plugin_dependencies.htm
+SHA-256-Digest: dpxUgo+s+xH84RHRBGv7u54W9DTE6GPTcsWEWwjjl7E=
+
+Name: guide/tools/editors/feature_editor/information.htm
+SHA-256-Digest: KKOBlMStWNdgXU4TLJttKyZMBN7d1dVXojeU4uCVYyo=
+
+Name: guide/tools/editors/simple_cs_editor/wizard_register-cheat-sheet
+ .htm
+SHA-256-Digest: x3C2prp8haQyE/bCpWNXNcLymUBfBnXA1EJUQnEJzU4=
+
+Name: reference/api/org/eclipse/pde/launching/class-use/OSGiLaunchConf
+ igurationDelegate.html
+SHA-256-Digest: jbax9hxNjali6r/MLvGJsQa1HcasodLvohFRkaQ7FVs=
+
+Name: guide/images/target_shared/new_target_wizard.png
+SHA-256-Digest: 0olCmfcNo3ADaWLejo79kPk+x+Rl1GKGkcd8dpgwpRE=
+
+Name: reference/api-tooling/ant-tasks/compare-ant-task.htm
+SHA-256-Digest: v/6RCRcR13e/eHU4kKaSYQghc+9osGJoaKvBkL9rD7E=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/BaseOptionT
+ emplateSection.html
+SHA-256-Digest: O/cwAj4pWKlNx9vIeM6Axn+G9mi73/wcDZAQup5joIU=
+
+Name: reference/api/org/eclipse/pde/api/tools/annotations/class-use/No
+ Instantiate.html
+SHA-256-Digest: LXpbDtYzld2/8G8teaoytIHp6LImXB2M8GKkXi48G0c=
+
+Name: reference/api/org/eclipse/pde/api/tools/annotations/class-use/No
+ Implement.html
+SHA-256-Digest: FyvodNBtNZL9FF9Z5VCMIKnze7w5wvpS73A1BJbpFLI=
+
+Name: reference/pde_feature_generating_build.htm
+SHA-256-Digest: 4/oauJHvU6J2+KmmGLpsjPpud2OJszBBeD8eZF/JizE=
+
+Name: reference/api/jquery/jszip-utils/dist/jszip-utils.min.js
+SHA-256-Digest: MSXJAE878CNsMFjILhjBEWOUp7YjYNSjwW5+tKV16KM=
+
+Name: guide/images/product_editor/splash_location.png
+SHA-256-Digest: KH2PfM61/ua+4vDSIb2z4jOg35MH7iQ+C91OTCv20Bs=
+
+Name: reference/api/org/eclipse/pde/ui/templates/PluginReference.html
+SHA-256-Digest: z8nm1rGXRGQtGy44RDXksZ4v3Mb06lyLytS35AmJcKM=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/JUnitTabGrou
+ p.html
+SHA-256-Digest: lUw+3dzFTElLv2x2gojzpJ5E797BCl1xjI3fE9OsDWQ=
+
+Name: guide/tools/file_wizards/new_file_wizards.htm
+SHA-256-Digest: ZJfinugP/7dAzWNFJfeVsiyk6OjN+izfj1MoYsHXreA=
+
+Name: reference/api/org/eclipse/pde/ui/class-use/IFieldData.html
+SHA-256-Digest: pK8ef8mONLDmn4swSebX0hEQ1r3BYXd6eUADeraLafw=
+
+Name: guide/images/simple_cs_editor/section_step_view_1.png
+SHA-256-Digest: 3ZSrcVKWH0Bi3nxOiRVa6xveJN4kWUFzfJXFC+l1obg=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginExten
+ sionPoint.html
+SHA-256-Digest: k0tknRQ93Wh4SM4DZJcFkesb1yfdoHf6mxZ1bqRuyWU=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/PluginJUnitM
+ ainTab.html
+SHA-256-Digest: eZx9wmxIbm8RMwuTkoyQMIyceW2pnj1Lo1mbTHCHcWs=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginExtensionPoint.
+ html
+SHA-256-Digest: toUqNtF5tikI8/FZnpM+4CFbBvcNAuIKDXsKPF/EEgE=
+
+Name: guide/images/plugin_editor/filter_pages.PNG
+SHA-256-Digest: Afnn6rPeqZ8+0AvLznvGazsEGGrZxv8tW5Zhs/lN6gQ=
+
+Name: guide/tools/launchers/eclipse_application_launcher.htm
+SHA-256-Digest: yw9cIQ+/ZxaWs9a+USUQ5vIJbiPjRnTapHbrXFlpKFQ=
+
+Name: guide/images/schema_editor/section_documentation.png
+SHA-256-Digest: rhbTxsFgmrnzwbFEsk/6YJJyJCwBgHSmWoZAlrMNMgg=
+
+Name: guide/tools/pde_actions/organize_manifests.htm
+SHA-256-Digest: /3nPsixRQrzxi8gaMuTVfM7fWMYuG9UqLgflYeglApY=
+
+Name: guide/tools/editors/target_editor/definition_page.htm
+SHA-256-Digest: c9l8NL5Xp6yGLzLBHiZuWqFo1NzDfADJ+O6Sx2FGDLE=
+
+Name: guide/tools/target_shared/edit_target_implicit_tab.htm
+SHA-256-Digest: 6DvfDnPKjZU4UkeQ4o+3S9Qd8Rae+N3CyXkHw2bikKQ=
+
+Name: reference/api/org/eclipse/pde/core/IEditableModel.html
+SHA-256-Digest: Hxflkn7mTcSpU0DSe7gpEIbRuqANiXBCtCrD3numa7M=
+
+Name: guide/tools/editors/manifest_editor/dependencies.htm
+SHA-256-Digest: 6s7qe0aT7IgsBuMDrV/zEA7PJi1dKH1osKkCB6z69yY=
+
+Name: guide/images/toc_editor/toc_section.png
+SHA-256-Digest: da/9dtpZ9V/scbZTu4N5yZnI6dKfDwk5TIleiccyeLM=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/RadioChoice
+ Option.html
+SHA-256-Digest: pRowQ1Nc1QYma6L/A9/kB5lZEw01fjThQw73prG53SA=
+
+Name: reference/api-tooling/quickfixes/ref-api-sincetag-qf.htm
+SHA-256-Digest: lDBxsQ46SCul6F9bn1Ez6NhaDcjwwuH41jLrHdr+0BQ=
+
+Name: reference/api/org/eclipse/pde/build/IAntScript.html
+SHA-256-Digest: BNJrc+/77ibiBqidwZK4QmWuJ5CtO5eqIk5WPB5zEpo=
+
+Name: reference/api/jquery/external/jquery/jquery.js
+SHA-256-Digest: ykTYgXXI+HZjqEMSUIEYLvW9F6ZWE8/vrz2my8wApm8=
+
+Name: guide/tools/launchers/equinox_plugins.htm
+SHA-256-Digest: P2WU/aR1MnUxEem0NnWex7WChIh0gJEwBGHiwfKkla0=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginBase.
+ html
+SHA-256-Digest: cvxzhpYn7gWsQ+iNAXX9vaGHhAktGaDzIPoYjOOLmSk=
+
+Name: reference/api/org/eclipse/pde/launching/class-use/AbstractPDELau
+ nchConfiguration.html
+SHA-256-Digest: AXIPwwEVBzcoz6rXL1N6QWJ2KBWRC093X8jo8jBNRgE=
+
+Name: reference/api/jquery/images/ui-icons_454545_256x240.png
+SHA-256-Digest: CgP6D7nsmsgOtju+jkPNtB4odkOKKYisTLq45YDc47E=
+
+Name: guide/tools/views/views.htm
+SHA-256-Digest: v8/GlpKotn7k6nLXLrIvPKuS8ZZef5TGGNUQ1K/iF5o=
+
+Name: guide/images/target_shared/edit_target_wizard.png
+SHA-256-Digest: BtjV7YAe85pHjMAezyH62RryXZqFWrDRkKUHBs63+Jg=
+
+Name: guide/images/simple_cs_editor/dialog_composer_details_2.png
+SHA-256-Digest: PvThkp4xeuH/vnaXlStTB2wApj3COHWUlGW91vvhI84=
+
+Name: guide/images/launchers/launcher_eclipse_prototype_link.png
+SHA-256-Digest: EmII/+aWORXMtCJ/uHwNOpxHQQd/blWBpetE6PhQRx8=
+
+Name: reference/extension-points/org_eclipse_pde_core_javadoc.html
+SHA-256-Digest: zj0AWBOeIq/fGhEZX+QzEuXIiqSHeHqi89uiErY2UKE=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IFragment.ht
+ ml
+SHA-256-Digest: QLt9C5oqHdJYMxIHzmkv2klxReFVfSivpOUKsm4CTA8=
+
+Name: guide/images/simple_cs_editor/section_title_details.png
+SHA-256-Digest: sdnMU4yyaohoYtITrRTDKUmrhtkxiz8fSz7fr5KXV2k=
+
+Name: tasks/pde_feature_generating_antcommandline.htm
+SHA-256-Digest: jd31uyurZFKhmbvPc6Yk6VCkIZQ1Hn7KjvGznrr+5/M=
+
+Name: reference/api/jquery/jquery-ui.js
+SHA-256-Digest: nq3TbC711Or8X0UGYd/lYDAygIG2HlDk7Kxatl4PC1A=
+
+Name: guide/images/target_editor/content_page.png
+SHA-256-Digest: 3685RdBmmfl2UkfG9BAZBhDElLUAQpNOSSpM0+hfAuA=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginElement.html
+SHA-256-Digest: NLZX0owjO0ELQvDcJowGE85IkOj/FVSPyK/YXojmx6s=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/AbstractCho
+ iceOption.html
+SHA-256-Digest: PSoXALgtbVewpVlEpqnlxN1IGA7Tcg8IMo/p3Y/pryw=
+
+Name: guide/images/preferences/target_statusbar.png
+SHA-256-Digest: LCzbOnMGI4/U81yKRGQ2sw+8/a4zfoz9leEIrrXfePE=
+
+Name: guide/images/simple_cs_editor/section_introduction_details.png
+SHA-256-Digest: tbLAsBZaTol6ygMVHpqwPVTnjW1hmtFxrrHec/+SBLY=
+
+Name: tips/images/pde-configure-problem-pde-compiler.png
+SHA-256-Digest: /d2NmpiFpGcfgkMDT7CHQwnTOOMz/2clEYSDzEZX06s=
+
+Name: reference/api/org/eclipse/pde/ui/class-use/IBundleContentWizard.
+ html
+SHA-256-Digest: SGNPYogSotCQ4mJxWX3hRAFutBD2MquYWNjS1wp2EHA=
+
+Name: guide/images/plugin_editor/dependencies_automated.png
+SHA-256-Digest: y0O3DXa+zHnaEZi69zIwKtjLe1CmKWf/1Z6nhvW2lkQ=
+
+Name: guide/tools/export_wizards/export_product.htm
+SHA-256-Digest: IszY2R3mh3Jd8cH9UUqOUT9v2ZXZq0ixzWvdqUEZ+xM=
+
+Name: guide/tools/launchers/junit_launcher.htm
+SHA-256-Digest: 9JmPP0bt9Vu+BnIN4KZHKif0tbUCynYEJE0LJI7w9Z0=
+
+Name: reference/api/index-files/index-1.html
+SHA-256-Digest: 7+JQEZ/+KLr/iai9Ukc0Nl9xBhlid9jM9KvPDP444C8=
+
+Name: tasks/pde_compiler_options.htm
+SHA-256-Digest: h/YCjBQcz4vpwXr2q3OwFFuWkCsSbk/Eur3C3voOrAU=
+
+Name: guide/tools/editors/site_editor/archives.htm
+SHA-256-Digest: 5ywq2XxnGzrzQTkXTl/zPL4uRP0H0DxzEWVEDGsqpYA=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IModelProviderEvent
+ .html
+SHA-256-Digest: fQqcnkbI/t2WODkUluQQGlf7YyJFgjkAWU3LLDA0qU0=
+
+Name: reference/api/org/eclipse/pde/ui/templates/OptionTemplateWizardP
+ age.html
+SHA-256-Digest: hsmwr8QKxbNOA+yJDpkyBilPKraN0i2YRTJKjboitw4=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/AbstractTem
+ plateSection.html
+SHA-256-Digest: cxSuiFLBYGETWBPV8w5i7+E6QbE5MyqRjyMxmBtgKis=
+
+Name: reference/api-tooling/images/remove-filter-qf.png
+SHA-256-Digest: XOM7VAPtOOCy/aIh+rY3xjb09aftOh/EVmPZiqmJtJ8=
+
+Name: guide/images/new_wizards/bundlizer1.PNG
+SHA-256-Digest: CSO5dXf1IWt7aDRO3i47iE8h52ywCZ1Kw+cIy3D3xEI=
+
+Name: index/indexed_contributions
+SHA-256-Digest: FkwN7sfk6VlL1FfdcyJM0aP2p2We3syfNNAMYZS0/F4=
+
+Name: reference/api-tooling/quickfixes/ref-api-missing-baseline-qf.htm
+SHA-256-Digest: mMcTG/k++t2gbwkk2/e+U3vldBXV84YJzFwBFS6L6sg=
+
+Name: guide/images/preferences/target_preferences.png
+SHA-256-Digest: EMwBFVFldcMI6GizjpaRVehHmm6AT9hq6Y0MgeqlQ/w=
+
+Name: guide/tools/target_shared/edit_target_arguments_tab.htm
+SHA-256-Digest: FwZQ8Ykq2ynXIaPSBfmZ3dB/ZYQWPLPqGHMKpGWrVOs=
+
+Name: guide/images/new_wizards/category_definition.png
+SHA-256-Digest: 23V1hXAHbvgH6ngJquNMucn6ve34uiafjlxBeZ6slnU=
+
+Name: tips/images/package-prefix.png
+SHA-256-Digest: pGnNhpaGBLVZ+s9hX/TjJsyVYSHluUHdt7m1tQpY2uc=
+
+Name: reference/api/org/eclipse/pde/core/class-use/ModelChangedEvent.h
+ tml
+SHA-256-Digest: NtSzsB96Pl2P9Egof2lvT6qSMJ/ENUKvzS4IYQREL+E=
+
+Name: guide/images/toc_editor/anchor_details.png
+SHA-256-Digest: 4IbpnjZk1TqfnQD2MTXvb4vLXz39UWIozeyb7ll6lCk=
+
+Name: reference/api/org/eclipse/pde/launching/EclipseApplicationLaunch
+ Configuration.html
+SHA-256-Digest: zO3RFBxr3fr5Pa/5cSjyAze26w65Vb9kkG88gtDe2Q0=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/BundlesTab.h
+ tml
+SHA-256-Digest: vxaPvPl9PHN43FNGm4DTjrc5iZYK2YJbn9cu9Zn/kV4=
+
+Name: guide/images/simple_cs_editor/section_introduction_master.png
+SHA-256-Digest: dtmHzb7f8xkgeR+q/kUOHZXg9o4ZWGB6YeqrJRiOS4g=
+
+Name: guide/images/simple_cs_editor/section_step_view_2.png
+SHA-256-Digest: ECUfZRbGG6b2kgThln0TFw6Tf6O5mQEhqucmVvJ0X+U=
+
+Name: reference/api/org/eclipse/pde/ui/target/ITargetLocationWizard.ht
+ ml
+SHA-256-Digest: gptiNIiCh30U1MIhP14H5yxGt8o7G0KxKZfdJHPz8P8=
+
+Name: reference/api/org/eclipse/pde/core/build/class-use/IBuild.html
+SHA-256-Digest: TRqqgrYZzaJ1+kY9L38avN1plJ6NK/HGNflHntHLfpk=
+
+Name: guide/images/pde_actions/organize_manifest.png
+SHA-256-Digest: 9iPU3mGzZEqx5BurrhGpXxHRxl6Htexdk0hytZSVSCc=
+
+Name: reference/api/org/eclipse/pde/ui/target/class-use/ITargetLocatio
+ nEditor.html
+SHA-256-Digest: Lzj0OHaYZuxUP9KPro5nbnaktxQt6B9zoImVH+TRZqo=
+
+Name: reference/api/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png
+SHA-256-Digest: VNFDbNZnDEBIXnbWKTXI+MtB3KKmdnrXJDFqlGc5JVU=
+
+Name: guide/tools/project_wizards/new_project_wizards.htm
+SHA-256-Digest: 61NEu+40HmXE+nrvkNqcT+oKySJv7I9kA0YH1kCWgfc=
+
+Name: reference/api/jquery/jquery-migrate-3.0.1.js
+SHA-256-Digest: zV3IeUAfuuPp7HeL3BQypJWo+h+2wRWKBrmTmS0zRww=
+
+Name: guide/images/schema_editor/section_general-information.png
+SHA-256-Digest: LT42Z9Fz1kQQCdgfQFK/O4onZfP2QbS+9fDfzIsPCq4=
+
+Name: guide/images/site_editor/archives_mirrors.png
+SHA-256-Digest: x+tO+du+7jzlPeWf8xFRBx6EVTuraZAJ5TFI/wyy8As=
+
+Name: reference/api/org/eclipse/pde/core/project/class-use/IPackageImp
+ ortDescription.html
+SHA-256-Digest: FgXG9Sa/wTuSQs6B67Aag4AU+lALXK0w7B8WL5ORzHU=
+
+Name: reference/api/index-files/index-11.html
+SHA-256-Digest: JES88EXzi4h/HneQmL4QkKH8uYOVZ9zY+owgArVjziE=
+
+Name: guide/tools/target_shared/location_edit_installation_wizard.htm
+SHA-256-Digest: GhrkK9XS4OZQnvi6QhdrFV/QBAzo6PwvX6AjFQXL8wQ=
+
+Name: reference/api/org/eclipse/pde/core/build/IBuildModel.html
+SHA-256-Digest: 1nr+8CgFhpFiulaFp5CbgAgyZTpJAZg5Q2YEvAejx9w=
+
+Name: guide/tools/editors/simple_cs_editor/section_content.htm
+SHA-256-Digest: g7/xuqQe+PreW3g1Koli1xhNZxF2G2fk8DzFa3gz5VI=
+
+Name: guide/tools/editors/toc_editor/editor.htm
+SHA-256-Digest: ev0oa4Oc674gF0nl9/ZVEX/tZg+LO7rBqIyScdg38yw=
+
+Name: guide/images/simple_cs_editor/section_title_view.png
+SHA-256-Digest: iqJLRwseq4l4miQqMdnNaFLzOjvQyPEs3JkNiRSEZUg=
+
+Name: reference/api/org/eclipse/pde/api/tools/annotations/package-summ
+ ary.html
+SHA-256-Digest: UILhnyrN5dDwa05Iz26nDmm/VFSclMh6T1KNVChJgO4=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/package-tree.html
+SHA-256-Digest: H/b9pVUgNNn4dBea6D3dJLQCCokr7wvcoTKwvJ7Ro1c=
+
+Name: reference/api/org/eclipse/pde/ui/templates/package-summary.html
+SHA-256-Digest: UmeaAw2/DoDUW75V1c3YJXQTeYpuho9+3PvnrO2TOGM=
+
+Name: reference/api/index-files/index-8.html
+SHA-256-Digest: VCsybahT6Kzrilw6MuJj9KJ6Jsve5IA5iPpneDtnkkc=
+
+Name: guide/tools/target_shared/location_preview.htm
+SHA-256-Digest: vLYaKFD/SGzyFyUwR2PceZvrbPF/uLGwGJDQ2qUPJOw=
+
+Name: guide/images/plugin_editor/xfriend.svg
+SHA-256-Digest: zZMSaQT66pf1eJKTbK9CYl0PeaoLs14hmt9MBXPG3QU=
+
+Name: reference/api/org/eclipse/pde/ui/IPluginFieldData.html
+SHA-256-Digest: 7YnXNUYlmJeICnQS2cxOkMyVNBQ5ZtI4FBEX+L1+xCM=
+
+Name: concepts/product.htm
+SHA-256-Digest: NreYjY9E4kDTuOinKZMitIlxdDx8Kt2aI7tlQwcV56M=
+
+Name: reference/api/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100
+ .png
+SHA-256-Digest: 28DWEMMZtdpxtE2VIlES3GLMHr5KUgUjqQD9YFjSh+4=
+
+Name: reference/extension-points/org_eclipse_pde_ui_targetLocationProv
+ isioners.html
+SHA-256-Digest: ZZ+KsL73pcWm7tmWE2AEKwGnBXri0P/u2ruy0BVTIRE=
+
+Name: reference/api/constant-values.html
+SHA-256-Digest: 7wUMjH0pPVxdiu2jqUzm3Pq0wWkTDQBN8bDIzU/N8tc=
+
+Name: index/indexed_docs
+SHA-256-Digest: 42Ecjz515HvWUwUhYbYb882bMWsAKnSvOA+CpKWom10=
+
+Name: guide/images/product_editor/overview_exporting.png
+SHA-256-Digest: /ykHLx8UoiryB+i32u3x41w0kUC7+XlX0OHOgXHTR08=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/OSGiSettings
+ Tab.html
+SHA-256-Digest: +/YxpOHMg2JtZr73wQCy+7j8YZbX2ytjQfKOGCyVS2o=
+
+Name: reference/api/index-files/index-15.html
+SHA-256-Digest: zGPN9TnBiB0BYQ/ryQ7llj8d1T9Idju+tNM1yXzUgzw=
+
+Name: whatsNew/images/feature-launch-startlevels.png
+SHA-256-Digest: uCSmse1QSx9C+E0kJVhEL9ao5bJIfMjwNhrCsvgh82A=
+
+Name: guide/schema.css
+SHA-256-Digest: Jibq5ycLtukYZtPkNZX2gS3YSV8KIM5uDJeBvsGouVc=
+
+Name: whatsNew/images/features-view.png
+SHA-256-Digest: 1Z6l1QRcWV+Y3NYWOmKPDnF5FutWmbldE9vrO4LM4RQ=
+
+Name: reference/extension-points/org_eclipse_pde_core_bundleClasspathR
+ esolvers.html
+SHA-256-Digest: DYwrtISBCJq1Mi05t1eRqs+3XbXnCCnC6bT7VvDCU2s=
+
+Name: guide/images/preferences/compilers_schemas.png
+SHA-256-Digest: D3bwmpmMm5AYUAgDtjyULkKNAjfaD90aMZ2mFX0xLis=
+
+Name: reference/api/org/eclipse/pde/ui/templates/NewPluginProjectFromT
+ emplateWizard.html
+SHA-256-Digest: B77FyWMPRLbd88djit9wWmrVzPUG32NRUVhwvFP51JY=
+
+Name: whatsNew/images/show-view-dialog.png
+SHA-256-Digest: LrCdJ3rl9lpJgMxb8JlI4Vn1QxBnRJkswyFTnC7Ds9Y=
+
+Name: guide/images/target_shared/location_site_include.png
+SHA-256-Digest: QtHgQ/0C8SAtsrLKmV9WBn+6P6QJMWwnXuSR3ayEAQg=
+
+Name: reference/api/org/eclipse/pde/core/project/IHostDescription.html
+SHA-256-Digest: oLB0g1WDV7MTusOrNFngGOV7OSrQBB9e6WYoTsx4+xc=
+
+Name: guide/tools/editors/simple_cs_editor/section_step.htm
+SHA-256-Digest: 2/ay6Y6/bk4K1KCQ4ZYzdfQEEv6s5JMUumkVxEPMBPg=
+
+Name: guide/images/simple_cs_editor/section_sub-step_details.png
+SHA-256-Digest: 8ZohOoN25H53PL9MC+P8eMEq68oVOY+UQQm5nCTpMFE=
+
+Name: reference/api/org/eclipse/pde/core/plugin/TargetPlatform.html
+SHA-256-Digest: o1gRiUZ5dv0JLK+T9IddQ0dT3lr7siwYi7Qs4ctAi8Y=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/JUnitLaunchC
+ onfigurationDelegate.html
+SHA-256-Digest: GEYUO21ig28lSd5caItwRsRy/ojzqd+UqXkxQELcK0M=
+
+Name: guide/images/target_shared/edit_target_locations_tab.png
+SHA-256-Digest: OXjSvUS73wkRDTuJ0QlbMSTxoEBA8Oepe9Om2pRzF8o=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IExtensionsM
+ odel.html
+SHA-256-Digest: OQp9c8ygrmg+1G7FnYTcMYnJ5HHfwMGX7Ev4+izOZaQ=
+
+Name: guide/images/feature_editor/overview_general.png
+SHA-256-Digest: qjCEM30aWNmiLbjnSBTTbAPyhJLWKP3lYKHSaLQqXwc=
+
+Name: guide/tools/export_wizards/export_plugins.htm
+SHA-256-Digest: JvuUJIBjmevwKP+tSos0y1TW9G3aDiJa/ssn+n/hh5o=
+
+Name: guide/images/schema_editor/elref_sc_obj.svg
+SHA-256-Digest: vD1ceCHHIbxBW62hvu2boY5VAA8CGd2ufP5bcwrb5zE=
+
+Name: guide/images/schema_editor/section_attribute-details_4.png
+SHA-256-Digest: mhztzogFzitPTBRPM+ZypROIEAEB4Z95b9muVr/potQ=
+
+Name: guide/images/export_wizards/jar_signing.png
+SHA-256-Digest: EiR64Rmt0H8QmVn/GCAK0Ivx/EF1xKIWT2Tb7PV6po0=
+
+Name: reference/api/org/eclipse/pde/ui/templates/NewPluginTemplateWiza
+ rd.html
+SHA-256-Digest: /MBO7PRrbwDmDtNLIeLiI0TC/v9neZpchRnNsQABmeI=
+
+Name: guide/tools/target_shared/location_edit_feature_wizard.htm
+SHA-256-Digest: W2lOH1RZXQ/yP2OaHtjdRCbYz1TEB8H6mjF/qvP93os=
+
+Name: guide/book.css
+SHA-256-Digest: ZfZh2HGkgh+9AoJ/go6wIzud4F/HWGHlxqJlIeKtJxk=
+
+Name: guide/tools/target_shared/location_add_features_wizard.htm
+SHA-256-Digest: 5U0mkRfRIEQi263+intFrZTPllKq6nkDkLrxS/0sKHE=
+
+Name: guide/tools/editors/ctx_help_editor/ctx_help_editor.htm
+SHA-256-Digest: 2qzURQTsL9qMzEtv9k3EBSCrHOhDoIcLN6oNlxqm4F0=
+
+Name: reference/api/org/eclipse/pde/core/target/ITargetPlatformService
+ .html
+SHA-256-Digest: HV+x+o3s9N09a2z5gFI5p34sS0EjIEtPM/G/KdOlRpk=
+
+Name: guide/images/views/plugin_image_view.png
+SHA-256-Digest: 5e66xv5CNQUjzEagTxwuFQBHVd5wnZgMyUbbIypJD8Q=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginImpor
+ t.html
+SHA-256-Digest: BHy90NynzbdpKuFVdKPPfKfMS348uqNKpuYGhlReLYs=
+
+Name: guide/tools/target_shared/edit_target_content_tab.htm
+SHA-256-Digest: KlhV+rcUF/I4Hs8MIRwaU/AXj3X7fAJ74g3xnvOT/gE=
+
+Name: reference/api/org/eclipse/pde/ui/target/package-summary.html
+SHA-256-Digest: OYeq3oXBikWh+XEegBePJBJ2kuw/CoOzF+r/vxi/10w=
+
+Name: reference/extension-points/org_eclipse_pde_core_source.html
+SHA-256-Digest: vsV84UoGYSc02W9Z5d44ZhDAgAUkHPWTGzpva5qCtr0=
+
+Name: guide/images/launchers/launcher_junit_headless.PNG
+SHA-256-Digest: L3T6KxBfAqdFIGTUEINZM1lbxBLT5iDjE57/OpWPJLc=
+
+Name: reference/api/resources/x.png
+SHA-256-Digest: G7b1e4kIh63I8PFpEgbanLzoushsx5Uj9BJkxeZzutk=
+
+Name: reference/api/index-files/index-18.html
+SHA-256-Digest: 3Fvrybf2aNWP2a3NeMJDs2GdZQc5glrxiZqUnnj5vpM=
+
+Name: guide/tools/launchers/equinox_settings.htm
+SHA-256-Digest: 7qOWSPfEdt2LvAGfnhwTlTQE8i6azW6BKXqdknJmJjQ=
+
+Name: guide/images/launchers/launcher_eclipse_prototype_link_dialog.pn
+ g
+SHA-256-Digest: iuiKLwDakjpsXsKKk67M7UshghsXpQ6RQ3MPKEu4mek=
+
+Name: reference/extension-points/org_eclipse_pde_ui_samples.html
+SHA-256-Digest: wQVlKMEObcydNdhVF9z9VucSAkUmu+drglpfbgGwdGI=
+
+Name: guide/tools/editors/manifest_editor/extensions.htm
+SHA-256-Digest: 4mPgm6zAFPHPtr72IAY68b3cCBUXpsvgKnw8NwHm3WU=
+
+Name: reference/api/org/eclipse/pde/core/project/package-use.html
+SHA-256-Digest: EfiKCBPlZjIx3cjYHUtCNVmgBFQ7izOhRseG9jEh8tk=
+
+Name: guide/images/launchers/launcher_eclipse_configuration.png
+SHA-256-Digest: BVnsCHcEZhbOQqm0z2VoIUuRXw7JLhJG904oGx3Tokw=
+
+Name: guide/images/ctx_help_editor/help_context_filled.png
+SHA-256-Digest: BXT9+uL7oScjaeMaCUYioeN1gMwbgZaWM69hh11by8c=
+
+Name: guide/tools/editors/product_editor/splash.htm
+SHA-256-Digest: aR4K8MsXFIAeAENCt5jUbD6GtttC/otoNskh+ORrMUc=
+
+Name: plugin.properties
+SHA-256-Digest: wiTiHxrmi8XdL5+Et9FdLxJmJ5sHUFz0RfNlL1ULdLM=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/OSGiLauncherTabGroup.h
+ tml
+SHA-256-Digest: xAmfJ4HX1sjyQUZgoamxRFGAdcx356vVl58DO3PqfCw=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/JUnitTabGroup.html
+SHA-256-Digest: nVmPAyLhVmQ7vFIYcjiw1KMD/5mdZ6t7/uyClRHxV6I=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/OSGiLaunchCo
+ nfigurationInitializer.html
+SHA-256-Digest: 9gnCTtcN8Ncmp4UxkSnHYMRv1/bHAsWD/YMsOPVbKe8=
+
+Name: guide/images/new_wizards/target.PNG
+SHA-256-Digest: U2id71J87xG6CSHB+j0TCNKCMNwbUewx8WzMaekSg80=
+
+Name: guide/images/simple_cs_editor/section_title_master.png
+SHA-256-Digest: TetOH7QPwA606tNFgrcrtEArGh7pBFEFRV2h5hl5HaQ=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPlugin.html
+SHA-256-Digest: tj7x2sXJyar+wnIEKvzpacgHo+q4yAExYStl6uVWrmk=
+
+Name: guide/images/new_wizards/new_toc_wizard.png
+SHA-256-Digest: i4Iv/hFsAEeZc4hzwyHkr+H0fveFlI+leEJu68gmUmc=
+
+Name: guide/images/composite_cs_editor/cheatsheet_composite_obj.svg
+SHA-256-Digest: AL9KWypG0fqb/4mIEkpEayq11M9IfaPvMwp9UPf89jY=
+
+Name: guide/images/target_editor/content_page_feature_mode.png
+SHA-256-Digest: Fm0pRg4LOdAKmTJ8vnJJ+RrmAA0iuDk2/EslDxMunvc=
+
+Name: reference/api/search.js
+SHA-256-Digest: tJCvLmKRhGmKldHzTmJdvREzIXUdbaeBCQKzktmsqvk=
+
+Name: guide/tools/editors/product_editor/overview.htm
+SHA-256-Digest: K90Zeh46sEV2KCu4y8286DmKBgnG1vX6/3h61ouLexw=
+
+Name: tasks/pde_p2_featuremetadata.htm
+SHA-256-Digest: VR7QMzRTVwwgnTZvqF0l6DY37opquGMEbmEPBY/cXGk=
+
+Name: tasks/pde_shared_license.htm
+SHA-256-Digest: smeCdsw/jo0KwGxEjqhGdksAncmkuO0RJHNkQMq3wQo=
+
+Name: reference/api/org/eclipse/pde/api/tools/annotations/package-use.
+ html
+SHA-256-Digest: rGvojDZifNHISKqssyIVm8OAz6wyLKbIHThWhH9VTaQ=
+
+Name: guide/tools/editors/manifest_editor/new_extension_wizard.htm
+SHA-256-Digest: Zt5bT2YDpsbVaaPaJDOYsFd9XrKAtHhpxh8+2ENsztU=
+
+Name: guide/images/feature_editor/overview_environments.png
+SHA-256-Digest: mXggYwQXScVqTCZzdObr54R3hsdfszU8DaqvCK/QgS0=
+
+Name: guide/tools/preference_pages/target_platform.htm
+SHA-256-Digest: k6JxzEcdOVEK/Zs4hm24pSbaxECv/kMbQ8EYzlGYDNI=
+
+Name: reference/api-tooling/images/api-use-pattern-wizard-conversion-p
+ age.png
+SHA-256-Digest: iV0o0/eBZgY5AFn0dHAl/J/QHrpKQ5jSb4+mGA0AOF0=
+
+Name: guide/images/import_wizards/plugin_import.png
+SHA-256-Digest: gkkZDo0ZNyGZTqPC6EjBLajlJD8oaKU17mGa5lNr+0E=
+
+Name: reference/api/index.html
+SHA-256-Digest: AmYNy4GBUT+Olm+3ZR04+/ZstD7oW/QRgF+4cF7hNKs=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/PDESourcePat
+ hProvider.html
+SHA-256-Digest: lU+ypy5EeSoUyc8l9FnJmyz9MIZ+jPvkK+Rl4HBGol8=
+
+Name: guide/images/new_wizards/plugin_templates.PNG
+SHA-256-Digest: L8vXHpbhiMXDPItzKdbbC1tlup8aN2XcstKmqeqmd2w=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IMatchRules.
+ html
+SHA-256-Digest: aPYPqRTVnBI33xQ7qnlvH4IeHBLobBXDDRwOZwhdXqw=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/PluginsTab.html
+SHA-256-Digest: fJXibn0N2cDcSCA62I8qFqPMNPPDYpRlHOF6G5nkQP0=
+
+Name: tips/pde_tips.htm
+SHA-256-Digest: 5jNMqIr41VVgmyGvltrg5KoCTdR5E0qEwuyt6aVZ7o8=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/PluginRegist
+ ry.html
+SHA-256-Digest: kEA96VLfJ/R75PamIcQWVCOojLd9c6eFPZeVSDKgUrA=
+
+Name: about.html
+SHA-256-Digest: NxFgVoBMJLdJFhHJp7EOpHY3McwYZOsmV7+AJ03wFr0=
+
+Name: reference/api/org/eclipse/pde/build/class-use/IAntScript.html
+SHA-256-Digest: Yl6ANzCX1QfGQ13WVqyxXr70rR93PH410Sp7k5VnEW0=
+
+Name: guide/tools/editors/feature_editor/installation.htm
+SHA-256-Digest: Xvy6soUvet0kQsXq6h4JHdNWMIEzIaBNfn4oTnKi0MA=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/PluginJUnitMainTab.htm
+ l
+SHA-256-Digest: cwR7nJtsZhfbDP9dl0wvYAaSIYjtz24BpANrIrbHd9o=
+
+Name: guide/tools/editors/simple_cs_editor/section_commands.htm
+SHA-256-Digest: AOnQ1lMAipCnDccrJdkU3UuI/HwcJjfadTB0fBS5qFA=
+
+Name: guide/images/feature_editor/information_copyright.png
+SHA-256-Digest: e3oPbSmuYa5bVcqSiXaIrDdx8p+k7BWdZpsMG0GSoHE=
+
+Name: guide/tools/editors/category_editor/definition_page.htm
+SHA-256-Digest: D+YhRcdpSXtav0Z+RICBy++ke4YJzq03iwRoD6roSjw=
+
+Name: reference/extension-points/org_eclipse_pde_ui_osgiFrameworks.htm
+ l
+SHA-256-Digest: wcgQgYqI7GwUKDQ3YQImZTF3XyuvjlVbNAxEEdB2biI=
+
+Name: guide/images/access_restrictions/content_assist.png
+SHA-256-Digest: +bPwGGj1Pj8CUN3XhZ/Ab0bSZ4lPISuTRivRfu15Hhc=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/EclipseLaunchShortcut.
+ html
+SHA-256-Digest: 7th70FjdJuj3p6cvt4amf24t+3LuhKD8x1khhJVJsjE=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/ConfigurationTab.html
+SHA-256-Digest: HoAJXJFLlrmKyWGbEjLJLXp87nn/TP+/OVnHIJaLiwc=
+
+Name: guide/tools/export_wizards/export_target.htm
+SHA-256-Digest: evBpFqA+6hwHpFqtzWak7W/Cj9djmDmf/kSqbK14DL0=
+
+Name: guide/images/product_editor/splash_custom.png
+SHA-256-Digest: rD8nD/MxUKvG50TIv3lYeed30Hc0hz6kwogXXtDDysc=
+
